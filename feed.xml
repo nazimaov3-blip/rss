@@ -1,6 +1,195 @@
-<?xml version="1.0"?>
+<?xml version="1.0" ?>
 <rss version="2.0">
-<channel>
-<title>Test</title>
-</channel>
+  <channel>
+    <title>Главные новости - Спорт: футбол, хоккей, баскетбол, теннис, бокс, Формула-1 – все новости спорта на Sports.ru</title>
+    <link>https://www.sports.ru/</link>
+    <description>Автоконвертация сайта в RSS</description>
+    <language>ru-RU</language>
+    <lastBuildDate>Mon, 23 Mar 2026 09:56:03 +0000</lastBuildDate>
+    <generator>Site to RSS Converter (Tkinter)</generator>
+    <item>
+      <title>Михаил Дегтярев: «Поддерживаю кандидатуру Свищева на пост главы объединенной лыжной федерации. У него большой опыт в управлении сложными процессами»</title>
+      <link>https://www.sports.ru/skiing/1117113608-mixail-degtyarev-podderzhivayu-kandidaturu-svishheva-na-post-glavy-obe.html</link>
+      <description>Министр спорта РФ Михаил Дегтярев поддержал кандидатуру Дмитрия Свищева на пост главы объединенной лыжной федерации России.</description>
+      <pubDate>Mon, 23 Mar 2026 12:41:00 +0300</pubDate>
+      <guid>https://www.sports.ru/skiing/1117113608-mixail-degtyarev-podderzhivayu-kandidaturu-svishheva-na-post-glavy-obe.html</guid>
+      <category>Лыжи</category>
+    </item>
+    <item>
+      <title>Вратарь «Динамо» Расулов об отключении интернета в Москве: «Сколько надо, столько и проживем. Я из Дагестана, у нас там в городе в принципе сотовая связь не работает. Привычная...</title>
+      <link>https://www.sports.ru/football/1117113606-vratar-dinamo-rasulov-ob-otklyuchenii-interneta-v-moskve-skolko-nado-s.html</link>
+      <description>Голкипер московского «Динамо» Курбан Расулов спокойно относится к отключениям интернета в Москве.</description>
+      <pubDate>Mon, 23 Mar 2026 12:41:00 +0300</pubDate>
+      <guid>https://www.sports.ru/football/1117113606-vratar-dinamo-rasulov-ob-otklyuchenii-interneta-v-moskve-skolko-nado-s.html</guid>
+      <category>Футбол</category>
+    </item>
+    <item>
+      <title>Гендиректор «Газпром-Медиа» Жаров: «Мы на финальной стадии приобретения прав на ЧМ-2030. ЧМ – главный приоритет, он гарантированно собирает аудиторию и экономически состоятелен»</title>
+      <link>https://www.sports.ru/football/1117113593-gendirektor-gazprom-media-zharov-drajverov-telesmotreniya-ogranichenny.html</link>
+      <description>Гендиректор АО «Газпром-Медиа холдинг» Александр Жаров рассказал о соревнованиях, которые компания хочет транслировать.</description>
+      <pubDate>Mon, 23 Mar 2026 12:28:00 +0300</pubDate>
+      <guid>https://www.sports.ru/football/1117113593-gendirektor-gazprom-media-zharov-drajverov-telesmotreniya-ogranichenny.html</guid>
+      <category>Футбол</category>
+    </item>
+    <item>
+      <title>Дмитрий Свищев возглавил Ассоциацию лыжных видов спорта России. Он сменил на этом посту Елену Вяльбе</title>
+      <link>https://www.sports.ru/skiing/1117113590-dmitrij-svishhev-vozglavil-assocziacziyu-lyzhnyx-vidov-sporta-rossii-o.html</link>
+      <description>Дмитрий Свищев сменил Елену Вяльбе на посту председателя Ассоциации лыжных видов спорта России.</description>
+      <pubDate>Mon, 23 Mar 2026 12:23:00 +0300</pubDate>
+      <guid>https://www.sports.ru/skiing/1117113590-dmitrij-svishhev-vozglavil-assocziacziyu-lyzhnyx-vidov-sporta-rossii-o.html</guid>
+      <category>Лыжи</category>
+    </item>
+    <item>
+      <title>ИИХФ о 1000-м голе Овечкина в НХЛ: «История хоккея пополнилась новой главой. Поздравляем Александра, а также Гретцки, Ягра и Хоу, чье наследие задает стандарты»</title>
+      <link>https://www.sports.ru/hockey/1117113564-iixf.html</link>
+      <description>Международная федерации хоккея (ИИХФ) выложила заметку о 1000-й шайбе Александра Овечкина в НХЛ с учетом плей-офф.</description>
+      <pubDate>Mon, 23 Mar 2026 12:17:00 +0300</pubDate>
+      <guid>https://www.sports.ru/hockey/1117113564-iixf.html</guid>
+      <category>Хоккей</category>
+    </item>
+    <item>
+      <title>Судья Мунуэра Монтеро – Арбелоа об удалении Вальверде: «Его единственное намерение – сзади сбить соперника с ног с чрезмерной силой. Он не играет в мяч»</title>
+      <link>https://www.sports.ru/football/1117113574-sudya-munuera-montero-arbeloa-ob-udalenii-valverde-ego-edinstvennoe-na.html</link>
+      <description>Главный судья матча 29-го тура Ла Лиги «Реал» – «Атлетико» (3:2) Хосе Мунуэра Монтеро объяснил главному тренеру «Мадрида» Альваро Арбелоа причину удаления полузащитника Федерико Вальверде.</description>
+      <pubDate>Mon, 23 Mar 2026 12:14:00 +0300</pubDate>
+      <guid>https://www.sports.ru/football/1117113574-sudya-munuera-montero-arbeloa-ob-udalenii-valverde-ego-edinstvennoe-na.html</guid>
+      <category>Футбол</category>
+    </item>
+    <item>
+      <title>Сотрудник «Зенита» Буллен о задержании в Англии 2024-м: «Спрашивали о России: «Отвечайте, или отправитесь в тюрьму». Забрали всю одежду, не давали позвонить, воды вынесли миллил...</title>
+      <link>https://www.sports.ru/football/1117113536-sotrudnik-zenita-bullen-o-zaderzhanii-v-2024-m-mog-predstavit-chto-tak.html</link>
+      <description>Редактор англоязычных медиа «Зенита» Марк Буллен рассказал Спортсу’‘ о задержании в Великобритании в 2024 году.</description>
+      <pubDate>Mon, 23 Mar 2026 11:52:00 +0300</pubDate>
+      <guid>https://www.sports.ru/football/1117113536-sotrudnik-zenita-bullen-o-zaderzhanii-v-2024-m-mog-predstavit-chto-tak.html</guid>
+      <category>Футбол</category>
+    </item>
+    <item>
+      <title>«Реал» обжалует дисквалификацию Вальверде. Хавбеку грозит бан на 2 матча за «удар ногой с применением чрезмерной силы без возможности сыграть в мяч»</title>
+      <link>https://www.sports.ru/football/1117113527-real-obzhaluet-diskvalifikacziyu-valverde-xavbeku-grozit-ban-na-2-matc.html</link>
+      <description>«Реал» обжалует дисквалификацию полузащитника Федерико Вальверде после его удаления в матче 29-го тура Ла Лиги против «Атлетико» (3:2).</description>
+      <pubDate>Mon, 23 Mar 2026 11:34:00 +0300</pubDate>
+      <guid>https://www.sports.ru/football/1117113527-real-obzhaluet-diskvalifikacziyu-valverde-xavbeku-grozit-ban-na-2-matc.html</guid>
+      <category>Футбол</category>
+    </item>
+    <item>
+      <title>Третьяк об Овечкине и рекорде Гретцки по голам в НХЛ с плей-офф: «Он будет жалеть, если не побьет его. Ты близок к историческому событию – нельзя упускать шанс»</title>
+      <link>https://www.sports.ru/hockey/1117113528-tretyak-ob-ovechkine-i-rekorde-gretczki-po-golam-v-nxl-s-plej-off-on-b.html</link>
+      <description>Президент Федерации хоккея России (ФХР) Владислав Третьяк оценил шансы Александра Овечкина побить рекорд Уэйна Гретцки по голам в НХЛ с учетом плей-офф (1016 шайб).</description>
+      <pubDate>Mon, 23 Mar 2026 11:30:00 +0300</pubDate>
+      <guid>https://www.sports.ru/hockey/1117113528-tretyak-ob-ovechkine-i-rekorde-gretczki-po-golam-v-nxl-s-plej-off-on-b.html</guid>
+      <category>Хоккей</category>
+    </item>
+    <item>
+      <title>«Красная Машина-Юниор» Ротенберга стала последней в регулярке МХЛ, проиграв 58 матчей из 62. Разница шайб – 102:313</title>
+      <link>https://www.sports.ru/hockey/1117113516-krasnaya-mashina-yunior.html</link>
+      <description>Академия «Красная Машина-Юниор», которой руководит вице-президент Федерации хоккея России Роман Ротенберг, завершила дебютный сезон в Olimpbet МХЛ на последнем 39-м месте.</description>
+      <pubDate>Mon, 23 Mar 2026 11:20:00 +0300</pubDate>
+      <guid>https://www.sports.ru/hockey/1117113516-krasnaya-mashina-yunior.html</guid>
+      <category>Хоккей</category>
+    </item>
+    <item>
+      <title>«Барселона» первой вышла в ЛЧ-2026/27. Команда Флика не опустится ниже 4-го места в Ла Лиге</title>
+      <link>https://www.sports.ru/football/1117113517-barselona-pervoj-vyshla-v-lch-2026-27-komanda-flika-ne-opustitsya-nizh.html</link>
+      <description>«Барселона» стала первой командой, квалифицировавшейся в Лигу чемпионов-2026/27.</description>
+      <pubDate>Mon, 23 Mar 2026 11:11:00 +0300</pubDate>
+      <guid>https://www.sports.ru/football/1117113517-barselona-pervoj-vyshla-v-lch-2026-27-komanda-flika-ne-opustitsya-nizh.html</guid>
+      <category>Футбол</category>
+    </item>
+    <item>
+      <title>Кубок Гагарина стартует! «Салават» в гостях у «Автомобилиста», ЦСКА против СКА, «Ак Барс» примет «Трактор», «Северсталь» сыграет с «Торпедо»</title>
+      <link>https://www.sports.ru/hockey/1117113405-kubok-gagarina-startuet-salavat-v-gostyax-u-avtomobilista-czska-protiv.html</link>
+      <description>В первый день нового розыгрыша Кубка Гагарина «Автомобилист» примет «Салават Юлаев», «Ак Барс» сыграет с «Трактором», «Северсталь» – с «Торпедо», ЦСКА будет противостоять СКА.</description>
+      <pubDate>Mon, 23 Mar 2026 11:07:47 +0300</pubDate>
+      <guid>https://www.sports.ru/hockey/1117113405-kubok-gagarina-startuet-salavat-v-gostyax-u-avtomobilista-czska-protiv.html</guid>
+      <category>Хоккей</category>
+    </item>
+    <item>
+      <title>Хорошо следили за сезоном КХЛ? Давайте проверим</title>
+      <link>https://www.sports.ru/hockey/1117062081-klyushku-s-avtografom-ovechkina-poluchil-pryamo-iz-ego-ruk-eto-bylo-ne.html</link>
+      <description>Хорошо следили за сезоном КХЛ? Давайте проверим</description>
+      <pubDate>Mon, 23 Mar 2026 11:00:00 +0300</pubDate>
+      <guid>https://www.sports.ru/hockey/1117062081-klyushku-s-avtografom-ovechkina-poluchil-pryamo-iz-ego-ruk-eto-bylo-ne.html</guid>
+      <category>Хоккей</category>
+    </item>
+    <item>
+      <title>НБА. «Тимбервулвс» впервые с 2005 года обыграли «Селтикс» в Бостоне, трипл-дабл Йокича (22+14+14) помог «Денверу» победить «Портленд», «Финикс» разгромил «Торонто» и другие резу...</title>
+      <link>https://www.sports.ru/basketball/1117112880-nba-boston-sygraet-s-minnesotoj-finiks-primet-toronto-i-drugie-matchi.html</link>
+      <description>«Тимбервулвс» прервали серию из 18 поражений (с 2005 года) в матчах в Бостоне и обыграли «Селтикс» (102:92).</description>
+      <pubDate>Mon, 23 Mar 2026 10:17:00 +0300</pubDate>
+      <guid>https://www.sports.ru/basketball/1117112880-nba-boston-sygraet-s-minnesotoj-finiks-primet-toronto-i-drugie-matchi.html</guid>
+      <category>Баскетбол</category>
+    </item>
+    <item>
+      <title>Некоторые фигуристы покинули Петербург поездом после Кубка Первого канала из-за отмены авиарейсов, сообщил Коган: «Часть осталась. Мы их вернули в гостиницу»</title>
+      <link>https://www.sports.ru/figure-skating/1117113439-mnogo-kto-poexal-poezdom-chast-ostalas-v-sankt-peterburge-my-ix-vernul.html</link>
+      <description>В Федерации фигурного катания на коньках России (ФФККР) сообщили, что некоторые спортсмены остались в Санкт-Петербурге после завершения Кубка Первого канала.</description>
+      <pubDate>Mon, 23 Mar 2026 09:30:00 +0300</pubDate>
+      <guid>https://www.sports.ru/figure-skating/1117113439-mnogo-kto-poexal-poezdom-chast-ostalas-v-sankt-peterburge-my-ix-vernul.html</guid>
+      <category>Фигурное катание</category>
+    </item>
+    <item>
+      <title>1000-я шайба Овечкина, «Ман Сити» взял Кубок лиги, «Реал» обыграл «Атлетико», победы «Зенита», «Локо» и «Спартака», Гуменник и Захарова выиграли произвольные, 901-й гол Месси и...</title>
+      <link>https://www.sports.ru/football/1117112873-utrennij-dajdzhest.html</link>
+      <description>1</description>
+      <pubDate>Mon, 23 Mar 2026 09:10:00 +0300</pubDate>
+      <guid>https://www.sports.ru/football/1117112873-utrennij-dajdzhest.html</guid>
+      <category>Футбол</category>
+    </item>
+    <item>
+      <title>Помните Зидана в сборной Франции? Мы разыгрываем его ретрофутболку</title>
+      <link>https://www.sports.ru/football/1117092594-poprobujte-ugadat-pobeditelej-matchej-serii-a-v-pikere-sportsa-darim-z.html</link>
+      <description>Помните Зидана в сборной Франции? Мы разыгрываем его ретрофутболку</description>
+      <pubDate>Mon, 23 Mar 2026 09:00:00 +0300</pubDate>
+      <guid>https://www.sports.ru/football/1117092594-poprobujte-ugadat-pobeditelej-matchej-serii-a-v-pikere-sportsa-darim-z.html</guid>
+      <category>Футбол</category>
+    </item>
+    <item>
+      <title>17-летний Маринкин о дебюте в старте «Динамо» против «Зенита»: «Не было волнения, занимаюсь футболом 14 лет. Если боишься играть, зачем выходить на поле?»</title>
+      <link>https://www.sports.ru/football/1117113393-17-letnij-marinkin-o-debyute-v-starte-dinamo-protiv-zenita-ne-bylo-vol.html</link>
+      <description>17-летний хавбек «Динамо» Тимофей Маринкин высказался после матча РПЛ с «Зенитом» (1:3).</description>
+      <pubDate>Mon, 23 Mar 2026 07:37:00 +0300</pubDate>
+      <guid>https://www.sports.ru/football/1117113393-17-letnij-marinkin-o-debyute-v-starte-dinamo-protiv-zenita-ne-bylo-vol.html</guid>
+      <category>Футбол</category>
+    </item>
+    <item>
+      <title>Аршавин о Сперцяне: «Очень сильный игрок, который перерос РПЛ»</title>
+      <link>https://www.sports.ru/football/1117113390-arshavin-o-sperczyane-ochen-silnyj-igrok-kotoryj-pereros-rpl.html</link>
+      <description>Андрей Аршавин считает, что Эдуард Сперцян перерос уровень РПЛ.</description>
+      <pubDate>Mon, 23 Mar 2026 07:19:00 +0300</pubDate>
+      <guid>https://www.sports.ru/football/1117113390-arshavin-o-sperczyane-ochen-silnyj-igrok-kotoryj-pereros-rpl.html</guid>
+      <category>Футбол</category>
+    </item>
+    <item>
+      <title>НХЛ. «Вашингтон» уступил «Колорадо», «Питтсбург» проиграл «Каролине», «Айлендерс» победили «Коламбус», «Калгари» одолел «Тампу»</title>
+      <link>https://www.sports.ru/hockey/1117112474-nxl-vashington-primet-kolorado-pittsburg-sygraet-s-karolinoj-kolambus-.html</link>
+      <description>В регулярном чемпионате НХЛ «Вашингтон» уступил «Колорадо» (2:3 ОТ), «Питтсбург» – «Каролине» (1:5), «Айлендерс» обыграли «Коламбус» (1:0), «Калгари» одолел «Тампу» (4:3 ОТ).</description>
+      <pubDate>Mon, 23 Mar 2026 06:55:00 +0300</pubDate>
+      <guid>https://www.sports.ru/hockey/1117112474-nxl-vashington-primet-kolorado-pittsburg-sygraet-s-karolinoj-kolambus-.html</guid>
+      <category>Хоккей</category>
+    </item>
+    <item>
+      <title>Самый лысый тест – назовете тренеров, блистающих не только тактически?</title>
+      <link>https://www.sports.ru/football/1117071176-kakoj-produkt-dzhokovich-prizhimal-k-zhivotu-ot-chego-otkazalsya-krish.html</link>
+      <description>Самый лысый тест – назовете тренеров, блистающих не только тактически?</description>
+      <pubDate>Mon, 23 Mar 2026 06:50:00 +0300</pubDate>
+      <guid>https://www.sports.ru/football/1117071176-kakoj-produkt-dzhokovich-prizhimal-k-zhivotu-ot-chego-otkazalsya-krish.html</guid>
+      <category>Футбол</category>
+    </item>
+    <item>
+      <title>Майами (WTA). Соболенко, Рыбакина, Пегула, Андреева вышли в 4-й круг, Александрова, Паолини, Свитолина, Киз выбыли</title>
+      <link>https://www.sports.ru/tennis/1117111620-majami-wta-2026-rezultaty-tretego-kruga.html</link>
+      <description>Екатерина Александрова уступила Жаклин Кристиан в третьем круге тысячника в Майами.</description>
+      <pubDate>Mon, 23 Mar 2026 05:08:00 +0300</pubDate>
+      <guid>https://www.sports.ru/tennis/1117111620-majami-wta-2026-rezultaty-tretego-kruga.html</guid>
+      <category>Теннис</category>
+    </item>
+    <item>
+      <title>Майами (ATP). Алькарас проиграл Корде, Фриц, Лехечка вышли в 4-й круг, Хачанов, Циципас, Берреттини выбыли</title>
+      <link>https://www.sports.ru/tennis/1117112763-majami-atp-2026-rezultaty-tretego-kruga.html</link>
+      <description>Карен Хачанов уступил Мартину Ландалусе в третьем круге «Мастерса» в Майами.</description>
+      <pubDate>Mon, 23 Mar 2026 05:07:00 +0300</pubDate>
+      <guid>https://www.sports.ru/tennis/1117112763-majami-atp-2026-rezultaty-tretego-kruga.html</guid>
+      <category>Теннис</category>
+    </item>
+  </channel>
 </rss>
