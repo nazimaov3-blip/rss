@@ -1,0 +1,382 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Футбол России и мира - последние новости на сегодня, самые свежие новости спорта</title>
+    <link>https://matchtv.ru/news/football</link>
+    <description>Футбол России и мира - самые свежие новости, результаты и анонсы соревнований, команды и спортсмены, слухи и многое другое. Читайте последние новости про Футбол и другие виды спорта на сайте «Матч ТВ»!</description>
+    <language>ru-RU</language>
+    <lastBuildDate>Mon, 23 Mar 2026 12:39:42 +0000</lastBuildDate>
+    <generator>Multi Source Site to RSS Converter</generator>
+    <item>
+      <title>На старый сайт</title>
+      <link>https://matchtv.ru/api/v1/toggle-upstream?utm_source=from_new</link>
+      <description>На старый сайт техподдержка</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/api/v1/toggle-upstream?utm_source=from_new</guid>
+    </item>
+    <item>
+      <title>Конный мир</title>
+      <link>https://matchtv.ru/video/channel/konnyj-mir</link>
+      <description>Каналы Матч ТВ Премьер Футбол 1 Футбол 2 Футбол 3 Боец Арена Игра Страна Конный мир</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/video/channel/konnyj-mir</guid>
+    </item>
+    <item>
+      <title>Телепрограмма</title>
+      <link>https://matchtv.ru/tvguide</link>
+      <description>Телепрограмма</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/tvguide</guid>
+    </item>
+    <item>
+      <title>Трансляции и видео</title>
+      <link>https://matchtv.ru/video</link>
+      <description>Трансляции и видео</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/video</guid>
+    </item>
+    <item>
+      <title>Матч-центр</title>
+      <link>https://matchtv.ru/match-center</link>
+      <description>Матч-центр</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/match-center</guid>
+    </item>
+    <item>
+      <title>Газпром Бонус</title>
+      <link>https://gazprombonus.ru/catalog?promotion=2551&amp;productType=PRODUCT_TYPE_OPTION&amp;productId=872&amp;utm_source=match&amp;utm_content=menu_new</link>
+      <description>Газпром Бонус</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://gazprombonus.ru/catalog?promotion=2551&amp;productType=PRODUCT_TYPE_OPTION&amp;productId=872&amp;utm_source=match&amp;utm_content=menu_new</guid>
+    </item>
+    <item>
+      <title>FONBET Кубок России</title>
+      <link>https://matchtv.ru/football/rossija/kubok_rossii</link>
+      <description>Россия Мир РПЛ FONBET Кубок России Лига ПАРИ LEON-Вторая Лига А LEON-Вторая Лига Б</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/football/rossija/kubok_rossii</guid>
+    </item>
+    <item>
+      <title>LEON-Вторая Лига А</title>
+      <link>https://matchtv.ru/football/rossija/pfl_2_j_divizion</link>
+      <description>Россия Мир РПЛ FONBET Кубок России Лига ПАРИ LEON-Вторая Лига А LEON-Вторая Лига Б</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/football/rossija/pfl_2_j_divizion</guid>
+    </item>
+    <item>
+      <title>Лига чемпионов</title>
+      <link>https://matchtv.ru/football/ucl</link>
+      <description>Европа и мир Лига чемпионов Лига Европы Лига конференций Испания Италия Германия Англия Турция Сербия Франция Нидерланды Португалия</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/football/ucl</guid>
+    </item>
+    <item>
+      <title>Лига Европы</title>
+      <link>https://matchtv.ru/football/le</link>
+      <description>Европа и мир Лига чемпионов Лига Европы Лига конференций Испания Италия Германия Англия Турция Сербия Франция Нидерланды Португалия</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/football/le</guid>
+    </item>
+    <item>
+      <title>Лига конференций</title>
+      <link>https://matchtv.ru/football/ecl</link>
+      <description>Европа и мир Лига чемпионов Лига Европы Лига конференций Испания Италия Германия Англия Турция Сербия Франция Нидерланды Португалия</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/football/ecl</guid>
+    </item>
+    <item>
+      <title>Нидерланды</title>
+      <link>https://matchtv.ru/football/netherlands</link>
+      <description>Европа и мир Лига чемпионов Лига Европы Лига конференций Испания Италия Германия Англия Турция Сербия Франция Нидерланды Португалия</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/football/netherlands</guid>
+    </item>
+    <item>
+      <title>Португалия</title>
+      <link>https://matchtv.ru/football/portugal</link>
+      <description>Европа и мир Лига чемпионов Лига Европы Лига конференций Испания Италия Германия Англия Турция Сербия Франция Нидерланды Португалия</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/football/portugal</guid>
+    </item>
+    <item>
+      <title>Чемпионат мира</title>
+      <link>https://matchtv.ru/football/worldcup</link>
+      <description>Сборные Чемпионат мира Чемпионат Европы Лига наций Сборная России</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/football/worldcup</guid>
+    </item>
+    <item>
+      <title>Чемпионат Европы</title>
+      <link>https://matchtv.ru/football/euro</link>
+      <description>Сборные Чемпионат мира Чемпионат Европы Лига наций Сборная России</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/football/euro</guid>
+    </item>
+    <item>
+      <title>Лига наций</title>
+      <link>https://matchtv.ru/football/uefanationsleague</link>
+      <description>Сборные Чемпионат мира Чемпионат Европы Лига наций Сборная России</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/football/uefanationsleague</guid>
+    </item>
+    <item>
+      <title>Сборная России</title>
+      <link>https://matchtv.ru/sbornaja_rossii_futbol</link>
+      <description>Сборные Чемпионат мира Чемпионат Европы Лига наций Сборная России</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/sbornaja_rossii_futbol</guid>
+    </item>
+    <item>
+      <title>Фонбет Чемпионат КХЛ</title>
+      <link>https://matchtv.ru/hockey/khl</link>
+      <description>Фонбет Чемпионат КХЛ</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/hockey/khl</guid>
+    </item>
+    <item>
+      <title>OLIMPBET Чемпионат МХЛ</title>
+      <link>https://matchtv.ru/hockey/mkhl</link>
+      <description>OLIMPBET Чемпионат МХЛ</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/hockey/mkhl</guid>
+    </item>
+    <item>
+      <title>MMA / Единоборства</title>
+      <link>https://matchtv.ru/edinoborstva</link>
+      <description>MMA / Единоборства</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/edinoborstva</guid>
+    </item>
+    <item>
+      <title>Лыжные гонки</title>
+      <link>https://matchtv.ru/news/skiing</link>
+      <description>Лыжные гонки</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/news/skiing</guid>
+    </item>
+    <item>
+      <title>Фигурное катание</title>
+      <link>https://matchtv.ru/news/figure-skating</link>
+      <description>Фигурное катание</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/news/figure-skating</guid>
+    </item>
+    <item>
+      <title>Легкая атлетика</title>
+      <link>https://matchtv.ru/athletics</link>
+      <description>Легкая атлетика</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/athletics</guid>
+    </item>
+    <item>
+      <title>Киберспорт</title>
+      <link>https://matchtv.ru/cyber</link>
+      <description>Киберспорт</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/cyber</guid>
+    </item>
+    <item>
+      <title>Летние виды</title>
+      <link>https://matchtv.ru/summer</link>
+      <description>Летние виды</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/summer</guid>
+    </item>
+    <item>
+      <title>Зимние виды</title>
+      <link>https://matchtv.ru/winter</link>
+      <description>Зимние виды</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/winter</guid>
+    </item>
+    <item>
+      <title>Настольный теннис</title>
+      <link>https://matchtv.ru/table-tennis</link>
+      <description>Настольный теннис</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/table-tennis</guid>
+    </item>
+    <item>
+      <title>MMA/Единоборства</title>
+      <link>https://matchtv.ru/news/edinoborstva</link>
+      <description>MMA/Единоборства</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/news/edinoborstva</guid>
+    </item>
+    <item>
+      <title>Олимпийские игры</title>
+      <link>https://matchtv.ru/news/olimpijskije_igry</link>
+      <description>Олимпийские игры</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/news/olimpijskije_igry</guid>
+    </item>
+    <item>
+      <title>Паралимпизм</title>
+      <link>https://matchtv.ru/news/paralimpizm</link>
+      <description>Паралимпизм</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/news/paralimpizm</guid>
+    </item>
+    <item>
+      <title>Футболист «Крыльев Советов» Костанца: «Смотря на состав и на команду, не понимаю, как мы можем упасть в Первую лигу»</title>
+      <link>https://matchtv.ru/football/matchtvnews_NI2308281_Futbolist_Kryljev_Sovetov_Kostanca_Smotra_na_sostav_i_na_komandu_ne_ponimaju_kak_my_mozhem_upast_v_Pervuju_ligu</link>
+      <description>Сегодня, 15:31 Эксклюзив Футболист «Крыльев Советов» Костанца: «Смотря на состав и на команду, не понимаю, как мы можем упасть в Первую лигу» Поделиться</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/football/matchtvnews_NI2308281_Futbolist_Kryljev_Sovetov_Kostanca_Smotra_na_sostav_i_na_komandu_ne_ponimaju_kak_my_mozhem_upast_v_Pervuju_ligu</guid>
+    </item>
+    <item>
+      <title>Агкацев, Литвинов и Кармо вошли в символическую сборную 22‑го тура РПЛ по версии подписчиков МАТЧ ПРЕМЬЕР</title>
+      <link>https://matchtv.ru/football/matchtvnews_NI2308280_Agkacev_Litvinov_i_Karmo_voshli_v_simvolicheskuju_sbornuju_22go_tura_RPL_po_versii_podpischikov_MATCh_PReMJeR</link>
+      <description>Сегодня, 15:26 Агкацев, Литвинов и Кармо вошли в символическую сборную 22‑го тура РПЛ по версии подписчиков МАТЧ ПРЕМЬЕР Поделиться</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/football/matchtvnews_NI2308280_Agkacev_Litvinov_i_Karmo_voshli_v_simvolicheskuju_sbornuju_22go_tura_RPL_po_versii_podpischikov_MATCh_PReMJeR</guid>
+    </item>
+    <item>
+      <title>«Оренбург» обратился в ЭСК РФС по итогам матча со «Спартаком»</title>
+      <link>https://matchtv.ru/football/matchtvnews_NI2308279_Orenburg_obratilsa_v_ESK_RFS_po_itogam_matcha_so_Spartakom</link>
+      <description>Сегодня, 15:25 Эксклюзив видео «Оренбург» обратился в ЭСК РФС по итогам матча со «Спартаком» Поделиться</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/football/matchtvnews_NI2308279_Orenburg_obratilsa_v_ESK_RFS_po_itogam_matcha_so_Spartakom</guid>
+    </item>
+    <item>
+      <title>Сергей Павлов. Часть 1. «Человек из футбола». Выпуск №116 от 23.03.2026</title>
+      <link>https://matchtv.ru/football/rossija/matchtvvideo_NI2308278_clip_Sergej_Pavlov_Chast_1_Chelovek_iz_futbola_Vypusk_116_ot_23032026</link>
+      <description>Сегодня, 15:16 Сергей Павлов. Часть 1. «Человек из футбола». Выпуск №116 от 23.03.2026 Поделиться</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/football/rossija/matchtvvideo_NI2308278_clip_Sergej_Pavlov_Chast_1_Chelovek_iz_futbola_Vypusk_116_ot_23032026</guid>
+    </item>
+    <item>
+      <title>Глава Федерации футбола Франции Диалло: «Я знаю имя нового главного тренера сборной»</title>
+      <link>https://matchtv.ru/football/matchtvnews_NI2308275_Glava_Federacii_futbola_Francii_Diallo_Ja_znaju_ima_novogo_glavnogo_trenera_sbornoj</link>
+      <description>Сегодня, 15:02 Глава Федерации футбола Франции Диалло: «Я знаю имя нового главного тренера сборной» Поделиться</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/football/matchtvnews_NI2308275_Glava_Federacii_futbola_Francii_Diallo_Ja_znaju_ima_novogo_glavnogo_trenera_sbornoj</guid>
+    </item>
+    <item>
+      <title>Футболист сборной Италии Кьеза из‑за травмы пропустит стыковой матч на ЧМ‑2026 против команды Северной Ирландии</title>
+      <link>https://matchtv.ru/football/matchtvnews_NI2308272_Futbolist_sbornoj_Italii_Kjeza_izza_travmy_propustit_stykovoj_match_na_ChM2026_protiv_komandy_Severnoj_Irlandii</link>
+      <description>Сегодня, 14:45 Футболист сборной Италии Кьеза из‑за травмы пропустит стыковой матч на ЧМ‑2026 против команды Северной Ирландии Поделиться</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/football/matchtvnews_NI2308272_Futbolist_sbornoj_Italii_Kjeza_izza_travmy_propustit_stykovoj_match_na_ChM2026_protiv_komandy_Severnoj_Irlandii</guid>
+    </item>
+    <item>
+      <title>Неймар вряд ли войдет в заявку сборной Бразилии на ЧМ‑2026 — СМИ</title>
+      <link>https://matchtv.ru/football/matchtvnews_NI2308245_Nejmar_vrad_li_vojdet_v_zajavku_sbornoj_Brazilii_na_ChM2026__SMI</link>
+      <description>Сегодня, 13:36 Неймар вряд ли войдет в заявку сборной Бразилии на ЧМ‑2026 — СМИ Поделиться</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/football/matchtvnews_NI2308245_Nejmar_vrad_li_vojdet_v_zajavku_sbornoj_Brazilii_na_ChM2026__SMI</guid>
+    </item>
+    <item>
+      <title>Игрок «Балтики» Петров: «Надеть футболку сборной России и сделать фотографию в Новогорске спустя 10 лет — очень радостное чувство»</title>
+      <link>https://matchtv.ru/football/matchtvnews_NI2308233_Igrok_Baltiki_Petrov_Nadet_futbolku_sbornoj_Rossii_i_sdelat_fotografiju_v_Novogorske_spusta_10_let__ochen_radostnoje_chuvstvo</link>
+      <description>Сегодня, 13:12 Эксклюзив видео Игрок «Балтики» Петров: «Надеть футболку сборной России и сделать фотографию в Новогорске спустя 10 лет — очень радостное чувство» Поделиться</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/football/matchtvnews_NI2308233_Igrok_Baltiki_Petrov_Nadet_futbolku_sbornoj_Rossii_i_sdelat_fotografiju_v_Novogorske_spusta_10_let__ochen_radostnoje_chuvstvo</guid>
+    </item>
+    <item>
+      <title>Хоккеист Спронг: «Жду возможности увидеть сборную Нидерландов по футболу на ЧМ‑2026. Приду на игру с друзьями и весь в оранжевом»</title>
+      <link>https://matchtv.ru/football/matchtvnews_NI2308207_Hokkeist_Sprong_Zhdu_vozmozhnosti_uvidet_sbornuju_Niderlandov_po_futbolu_na_ChM2026_Pridu_na_igru_s_druzjami_i_ves_v_oranzhevom</link>
+      <description>Сегодня, 12:51 Эксклюзив Хоккеист Спронг: «Жду возможности увидеть сборную Нидерландов по футболу на ЧМ‑2026. Приду на игру с друзьями и весь в оранжевом» Поделиться</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/football/matchtvnews_NI2308207_Hokkeist_Sprong_Zhdu_vozmozhnosti_uvidet_sbornuju_Niderlandov_po_futbolu_na_ChM2026_Pridu_na_igru_s_druzjami_i_ves_v_oranzhevom</guid>
+    </item>
+    <item>
+      <title>«Правильно адаптировались к полю и хотели победить в Оренбурге, особенно спустя столько лет» — защитник «Спартака» Денисов</title>
+      <link>https://matchtv.ru/football/matchtvnews_NI2308187_Pravilno_adaptirovalis_k_polu_i_khoteli_pobedit_v_Orenburge_osobenno_spusta_stolko_let__zashhitnik_Spartaka_Denisov</link>
+      <description>Сегодня, 12:36 Эксклюзив «Правильно адаптировались к полю и хотели победить в Оренбурге, особенно спустя столько лет» — защитник «Спартака» Денисов Поделиться</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/football/matchtvnews_NI2308187_Pravilno_adaptirovalis_k_polu_i_khoteli_pobedit_v_Orenburge_osobenno_spusta_stolko_let__zashhitnik_Spartaka_Denisov</guid>
+    </item>
+    <item>
+      <title>Коринтианс - Фламенго. Голы (видео). Чемпионат Бразилии. Футбол</title>
+      <link>https://matchtv.ru/football/juzhnaja_amerika/brazil/matchtvvideo_NI2308182_clip_Korintians___Flamengo_Goly_video_Chempionat_Brazilii_Futbol</link>
+      <description>Сегодня, 12:30 Коринтианс - Фламенго. Голы (видео). Чемпионат Бразилии. Футбол Поделиться</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/football/juzhnaja_amerika/brazil/matchtvvideo_NI2308182_clip_Korintians___Flamengo_Goly_video_Chempionat_Brazilii_Futbol</guid>
+    </item>
+    <item>
+      <title>Интернасьонал - Шапекоэнсе. Голы (видео). Чемпионат Бразилии. Футбол</title>
+      <link>https://matchtv.ru/football/juzhnaja_amerika/brazil/matchtvvideo_NI2308180_clip_Internasonal___Shapekoense_Goly_video_Chempionat_Brazilii_Futbol</link>
+      <description>Сегодня, 12:27 Интернасьонал - Шапекоэнсе. Голы (видео). Чемпионат Бразилии. Футбол Поделиться</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/football/juzhnaja_amerika/brazil/matchtvvideo_NI2308180_clip_Internasonal___Shapekoense_Goly_video_Chempionat_Brazilii_Futbol</guid>
+    </item>
+    <item>
+      <title>Брендбук Матч ТВ</title>
+      <link>https://promo.matchtv.ru/brandbook_selection</link>
+      <description>О нас О канале Контакты Брендбук Матч ТВ Охрана труда Политика обработки персональных данных Правила применения рекомендательных технологий</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://promo.matchtv.ru/brandbook_selection</guid>
+    </item>
+    <item>
+      <title>Охрана труда</title>
+      <link>https://matchtv.ru/labor_protection</link>
+      <description>О нас О канале Контакты Брендбук Матч ТВ Охрана труда Политика обработки персональных данных Правила применения рекомендательных технологий</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/labor_protection</guid>
+    </item>
+    <item>
+      <title>Политика обработки персональных данных</title>
+      <link>https://matchtv.ru/articles/privacy-policy</link>
+      <description>О нас О канале Контакты Брендбук Матч ТВ Охрана труда Политика обработки персональных данных Правила применения рекомендательных технологий</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/articles/privacy-policy</guid>
+    </item>
+    <item>
+      <title>Правила применения рекомендательных технологий</title>
+      <link>https://matchtv.ru/system_recommendation</link>
+      <description>О нас О канале Контакты Брендбук Матч ТВ Охрана труда Политика обработки персональных данных Правила применения рекомендательных технологий</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/system_recommendation</guid>
+    </item>
+    <item>
+      <title>ТЕЛЕПРОИЗВОДСТВО</title>
+      <link>https://matchtv.ru/3d-tours</link>
+      <description>Сотрудничество ТЕЛЕПРОИЗВОДСТВО Вакансии Аккредитация СМИ Размещение рекламы</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/3d-tours</guid>
+    </item>
+    <item>
+      <title>Аккредитация СМИ</title>
+      <link>https://matchtv.ru/articles/accreditation</link>
+      <description>Сотрудничество ТЕЛЕПРОИЗВОДСТВО Вакансии Аккредитация СМИ Размещение рекламы</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/articles/accreditation</guid>
+    </item>
+    <item>
+      <title>Размещение рекламы</title>
+      <link>https://matchtv.ru/advertising</link>
+      <description>Сотрудничество ТЕЛЕПРОИЗВОДСТВО Вакансии Аккредитация СМИ Размещение рекламы</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/advertising</guid>
+    </item>
+    <item>
+      <title>Матч Премьер</title>
+      <link>https://matchtv.ru/subscriptions#premier</link>
+      <description>Подписки Матч Премьер М! Максимум</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/subscriptions#premier</guid>
+    </item>
+    <item>
+      <title>М! Максимум</title>
+      <link>https://matchtv.ru/subscriptions#maximum</link>
+      <description>Подписки Матч Премьер М! Максимум</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/subscriptions#maximum</guid>
+    </item>
+    <item>
+      <title>Одноклассники</title>
+      <link>https://ok.ru/matchtvchannel</link>
+      <description>Соцсети Вконтакте ↗ Телеграм ↗ Одноклассники ↗</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://ok.ru/matchtvchannel</guid>
+    </item>
+    <item>
+      <title>Пользовательское соглашение</title>
+      <link>https://matchtv.ru/articles/agreement</link>
+      <description>Пользовательское соглашение 18+</description>
+      <pubDate>Mon, 23 Mar 2026 12:39:42 +0000</pubDate>
+      <guid>https://matchtv.ru/articles/agreement</guid>
+    </item>
+  </channel>
+</rss>
