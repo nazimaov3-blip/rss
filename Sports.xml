@@ -1,571 +1,573 @@
 <?xml version="1.0" ?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Футбол России и мира 2026 - новости на сегодня, турнирная таблица и расписание, результаты и календарь соревнований на Sports.ru</title>
     <link>https://www.sports.ru/football/</link>
     <description>Футбол России и мира на Sports.ru. Турнирная таблица, расписание и результаты соревнований по футболу, последние новости на 2026 год. Лучшие тексты и статьи, фото и видео, форумы и блоги болельщиков.</description>
     <language>ru-RU</language>
-    <lastBuildDate>Mon, 23 Mar 2026 10:29:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 09:00:00 +0000</lastBuildDate>
     <generator>Multi Source Site to RSS Converter</generator>
+    <docs>https://www.rssboard.org/rss-specification</docs>
+    <ttl>60</ttl>
     <item>
       <title>Моя лента</title>
       <link>https://www.sports.ru/feed/</link>
+      <guid isPermaLink="false">https://www.sports.ru/feed/</guid>
       <description>Моя лента</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/feed/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Новости</title>
       <link>https://www.sports.ru/football/news/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/news/</guid>
       <description>Новости</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/news/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Матчи</title>
       <link>https://www.sports.ru/football/match/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/match/</guid>
       <description>Матчи</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/match/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Фэнтези</title>
       <link>https://www.sports.ru/fantasy/football/</link>
+      <guid isPermaLink="false">https://www.sports.ru/fantasy/football/</guid>
       <description>Фэнтези</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/fantasy/football/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Основа</title>
       <link>https://www.sports.ru/osnova/</link>
+      <guid isPermaLink="false">https://www.sports.ru/osnova/</guid>
       <description>Основа</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/osnova/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ла Лига</title>
       <link>https://www.sports.ru/football/tournament/la-liga/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/tournament/la-liga/</guid>
       <description>Ла Лига</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/tournament/la-liga/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Серия А</title>
       <link>https://www.sports.ru/football/tournament/seria-a/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/tournament/seria-a/</guid>
       <description>Серия А</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/tournament/seria-a/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Бундеслига</title>
       <link>https://www.sports.ru/football/tournament/bundesliga/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/tournament/bundesliga/</guid>
       <description>Бундеслига</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/tournament/bundesliga/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Трансферы</title>
       <link>https://www.sports.ru/football/transfers/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/transfers/</guid>
       <description>Трансферы</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/transfers/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Трибуна</title>
       <link>https://www.sports.ru/football/blogs/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/blogs/</guid>
       <description>Трибуна</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/blogs/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Главная</title>
       <link>https://www.sports.ru/</link>
+      <guid isPermaLink="false">https://www.sports.ru/</guid>
       <description>Главная</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Наши приложения</title>
       <link>https://sirena.world/apps_menu</link>
+      <guid isPermaLink="false">https://sirena.world/apps_menu</guid>
       <description>Наши приложения</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://sirena.world/apps_menu</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ВидеоСпортс''</title>
       <link>https://video.sports.ru/</link>
+      <guid isPermaLink="false">https://video.sports.ru/</guid>
       <description>ВидеоСпортс''</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://video.sports.ru/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ставки</title>
       <link>https://www.sports.ru/betting/</link>
+      <guid isPermaLink="false">https://www.sports.ru/betting/</guid>
       <description>Ставки</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/betting/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Футбол</title>
       <link>https://www.sports.ru/football/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/</guid>
       <description>Футбол</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Турниры</title>
       <link>https://www.sports.ru/football/tournament/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/tournament/</guid>
       <description>Турниры</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/tournament/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Лига чемпионов</title>
       <link>https://www.sports.ru/football/tournament/ucl/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/tournament/ucl/</guid>
       <description>Лига чемпионов</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/tournament/ucl/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Лига Европы</title>
       <link>https://www.sports.ru/football/tournament/uefa-europa-league/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/tournament/uefa-europa-league/</guid>
       <description>Лига Европы</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/tournament/uefa-europa-league/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Лига 1</title>
       <link>https://www.sports.ru/football/tournament/ligue-1/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/tournament/ligue-1/</guid>
       <description>Лига 1</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/tournament/ligue-1/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Китайская суперлига</title>
       <link>https://www.sports.ru/football/tournament/chinese-super-league/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/tournament/chinese-super-league/</guid>
       <description>Китайская суперлига</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/tournament/chinese-super-league/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Кубок России</title>
       <link>https://www.sports.ru/football/tournament/russian-cup/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/tournament/russian-cup/</guid>
       <description>Кубок России</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/tournament/russian-cup/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Первая лига</title>
       <link>https://www.sports.ru/football/tournament/1liga/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/tournament/1liga/</guid>
       <description>Первая лига</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/tournament/1liga/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Казахстанская лига</title>
       <link>https://www.sports.ru/football/tournament/qazaqstan-premier-ligasy/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/tournament/qazaqstan-premier-ligasy/</guid>
       <description>Казахстанская лига</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/tournament/qazaqstan-premier-ligasy/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Команды</title>
       <link>https://www.sports.ru/football/club/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/club/</guid>
       <description>Команды</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/club/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Сборная России</title>
       <link>https://www.sports.ru/football/team/russia/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/team/russia/</guid>
       <description>Сборная России</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/team/russia/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Зенит</title>
       <link>https://www.sports.ru/football/club/zenit-st-petersburg/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/club/zenit-st-petersburg/</guid>
       <description>Зенит</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/club/zenit-st-petersburg/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Спартак</title>
       <link>https://www.sports.ru/football/club/spartak/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/club/spartak/</guid>
       <description>Спартак</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/club/spartak/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Краснодар</title>
       <link>https://www.sports.ru/football/club/krasnodar/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/club/krasnodar/</guid>
       <description>Краснодар</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/club/krasnodar/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Реал Мадрид</title>
       <link>https://www.sports.ru/football/club/real/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/club/real/</guid>
       <description>Реал Мадрид</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/club/real/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Барселона</title>
       <link>https://www.sports.ru/football/club/barcelona/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/club/barcelona/</guid>
       <description>Барселона</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/club/barcelona/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Бавария</title>
       <link>https://www.sports.ru/football/club/bayern/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/club/bayern/</guid>
       <description>Бавария</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/club/bayern/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Манчестер Сити</title>
       <link>https://www.sports.ru/football/club/manchester-city/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/club/manchester-city/</guid>
       <description>Манчестер Сити</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/club/manchester-city/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Арсенал</title>
       <link>https://www.sports.ru/football/club/arsenal/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/club/arsenal/</guid>
       <description>Арсенал</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/club/arsenal/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ливерпуль</title>
       <link>https://www.sports.ru/football/club/liverpool/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/club/liverpool/</guid>
       <description>Ливерпуль</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/club/liverpool/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Игроки</title>
       <link>https://www.sports.ru/football/sportsman/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/sportsman/</guid>
       <description>Игроки</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/sportsman/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Месси</title>
       <link>https://www.sports.ru/football/person/messi/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/person/messi/</guid>
       <description>Месси</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/person/messi/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Роналду</title>
       <link>https://www.sports.ru/football/person/cristiano-ronaldo/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/person/cristiano-ronaldo/</guid>
       <description>Роналду</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/person/cristiano-ronaldo/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Мбаппе</title>
       <link>https://www.sports.ru/football/person/mbappe/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/person/mbappe/</guid>
       <description>Мбаппе</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/person/mbappe/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Беллингем</title>
       <link>https://www.sports.ru/football/person/jude-bellingham/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/person/jude-bellingham/</guid>
       <description>Беллингем</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/person/jude-bellingham/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Салах</title>
       <link>https://www.sports.ru/football/person/salah/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/person/salah/</guid>
       <description>Салах</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/person/salah/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Винисиус</title>
       <link>https://www.sports.ru/football/person/vinicius/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/person/vinicius/</guid>
       <description>Винисиус</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/person/vinicius/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ламин Ямаль</title>
       <link>https://www.sports.ru/football/person/lamine-yamal/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/person/lamine-yamal/</guid>
       <description>Ламин Ямаль</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/person/lamine-yamal/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Левандовски</title>
       <link>https://www.sports.ru/football/person/robert-lewandowski/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/person/robert-lewandowski/</guid>
       <description>Левандовски</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/person/robert-lewandowski/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Хвича</title>
       <link>https://www.sports.ru/football/person/khvicha-kvaratskhelia/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/person/khvicha-kvaratskhelia/</guid>
       <description>Хвича</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/person/khvicha-kvaratskhelia/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Дзюба</title>
       <link>https://www.sports.ru/football/person/dzyuba/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/person/dzyuba/</guid>
       <description>Дзюба</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/person/dzyuba/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Головин</title>
       <link>https://www.sports.ru/football/person/aleksandr-golovin/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/person/aleksandr-golovin/</guid>
       <description>Головин</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/person/aleksandr-golovin/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Алексей Миранчук</title>
       <link>https://www.sports.ru/football/person/aleksey-miranchuk/</link>
+      <guid isPermaLink="false">https://www.sports.ru/football/person/aleksey-miranchuk/</guid>
       <description>Алексей Миранчук</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/football/person/aleksey-miranchuk/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Хоккей</title>
       <link>https://www.sports.ru/hockey/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/</guid>
       <description>Хоккей</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Команды</title>
       <link>https://www.sports.ru/hockey/club/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/club/</guid>
       <description>Команды</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/club/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Вашингтон</title>
       <link>https://www.sports.ru/hockey/club/washington-capitals/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/club/washington-capitals/</guid>
       <description>Вашингтон</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/club/washington-capitals/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ЦСКА</title>
       <link>https://www.sports.ru/hockey/club/cska/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/club/cska/</guid>
       <description>ЦСКА</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/club/cska/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Авангард</title>
       <link>https://www.sports.ru/hockey/club/avangard/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/club/avangard/</guid>
       <description>Авангард</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/club/avangard/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Тампа-Бэй</title>
       <link>https://www.sports.ru/hockey/club/tampa-bay-lightning/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/club/tampa-bay-lightning/</guid>
       <description>Тампа-Бэй</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/club/tampa-bay-lightning/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Питтсбург</title>
       <link>https://www.sports.ru/hockey/club/pittsburgh-penguins/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/club/pittsburgh-penguins/</guid>
       <description>Питтсбург</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/club/pittsburgh-penguins/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Спартак</title>
       <link>https://www.sports.ru/hockey/club/spartak/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/club/spartak/</guid>
       <description>Спартак</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/club/spartak/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Динамо Москва</title>
       <link>https://www.sports.ru/hockey/club/dinamo/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/club/dinamo/</guid>
       <description>Динамо Москва</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/club/dinamo/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Рейнджерс</title>
       <link>https://www.sports.ru/hockey/club/new-york-rangers/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/club/new-york-rangers/</guid>
       <description>Рейнджерс</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/club/new-york-rangers/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ак Барс</title>
       <link>https://www.sports.ru/hockey/club/ak-bars/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/club/ak-bars/</guid>
       <description>Ак Барс</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/club/ak-bars/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Металлург Мг</title>
       <link>https://www.sports.ru/hockey/club/metallurg-magnitogorsk/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/club/metallurg-magnitogorsk/</guid>
       <description>Металлург Мг</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/club/metallurg-magnitogorsk/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Локомотив</title>
       <link>https://www.sports.ru/hockey/club/lokomotiv-yaroslavl/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/club/lokomotiv-yaroslavl/</guid>
       <description>Локомотив</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/club/lokomotiv-yaroslavl/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Турниры</title>
       <link>https://www.sports.ru/hockey/tournament/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/tournament/</guid>
       <description>Турниры</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/tournament/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Чемпионат мира</title>
       <link>https://www.sports.ru/hockey/tournament/iihf-world-cup/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/tournament/iihf-world-cup/</guid>
       <description>Чемпионат мира</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/tournament/iihf-world-cup/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Кубок Стэнли</title>
       <link>https://www.sports.ru/hockey/tournament/stanley-cup/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/tournament/stanley-cup/</guid>
       <description>Кубок Стэнли</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/tournament/stanley-cup/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Кубок Гагарина</title>
       <link>https://www.sports.ru/hockey/tournament/gagarin-cup/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/tournament/gagarin-cup/</guid>
       <description>Кубок Гагарина</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/tournament/gagarin-cup/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Хоккеисты</title>
       <link>https://www.sports.ru/hockey/sportsman/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/sportsman/</guid>
       <description>Хоккеисты</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/sportsman/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Александр Овечкин</title>
       <link>https://www.sports.ru/hockey/person/alexander-ovechkin/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/person/alexander-ovechkin/</guid>
       <description>Александр Овечкин</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/person/alexander-ovechkin/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Никита Кучеров</title>
       <link>https://www.sports.ru/hockey/person/nikita-kucherov/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/person/nikita-kucherov/</guid>
       <description>Никита Кучеров</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/person/nikita-kucherov/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Артемий Панарин</title>
       <link>https://www.sports.ru/hockey/person/artemiy-panarin/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/person/artemiy-panarin/</guid>
       <description>Артемий Панарин</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/person/artemiy-panarin/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Кирилл Капризов</title>
       <link>https://www.sports.ru/hockey/person/kirill-kaprizov/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/person/kirill-kaprizov/</guid>
       <description>Кирилл Капризов</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/person/kirill-kaprizov/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Евгений Малкин</title>
       <link>https://www.sports.ru/hockey/person/evgeni-malkin/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/person/evgeni-malkin/</guid>
       <description>Евгений Малкин</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/person/evgeni-malkin/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Нэтан Маккиннон</title>
       <link>https://www.sports.ru/hockey/person/nathan-mackinnon/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/person/nathan-mackinnon/</guid>
       <description>Нэтан Маккиннон</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/person/nathan-mackinnon/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Коннор Макдэвид</title>
       <link>https://www.sports.ru/hockey/person/connor-mcdavid/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/person/connor-mcdavid/</guid>
       <description>Коннор Макдэвид</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/person/connor-mcdavid/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Остон Мэттьюс</title>
       <link>https://www.sports.ru/hockey/person/auston-matthews/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/person/auston-matthews/</guid>
       <description>Остон Мэттьюс</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/person/auston-matthews/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Сидни Кросби</title>
       <link>https://www.sports.ru/hockey/person/sidney-patrick-crosby/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/person/sidney-patrick-crosby/</guid>
       <description>Сидни Кросби</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/person/sidney-patrick-crosby/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Андрей Свечников</title>
       <link>https://www.sports.ru/hockey/person/andrei-svechnikov/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/person/andrei-svechnikov/</guid>
       <description>Андрей Свечников</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/person/andrei-svechnikov/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Сергей Бобровский</title>
       <link>https://www.sports.ru/hockey/person/sergei-bobrovsky/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/person/sergei-bobrovsky/</guid>
       <description>Сергей Бобровский</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/person/sergei-bobrovsky/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Андрей Василевский</title>
       <link>https://www.sports.ru/hockey/person/andrey-vasilevsky/</link>
+      <guid isPermaLink="false">https://www.sports.ru/hockey/person/andrey-vasilevsky/</guid>
       <description>Андрей Василевский</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/hockey/person/andrey-vasilevsky/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Фигурное катание</title>
       <link>https://www.sports.ru/figure-skating/</link>
+      <guid isPermaLink="false">https://www.sports.ru/figure-skating/</guid>
       <description>Фигурное катание</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/figure-skating/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Фигуристы</title>
       <link>https://www.sports.ru/figure-skating/sportsman/</link>
+      <guid isPermaLink="false">https://www.sports.ru/figure-skating/sportsman/</guid>
       <description>Фигуристы</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/figure-skating/sportsman/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Камила Валиева</title>
       <link>https://www.sports.ru/figure-skating/person/kamila-valieva/</link>
+      <guid isPermaLink="false">https://www.sports.ru/figure-skating/person/kamila-valieva/</guid>
       <description>Камила Валиева</description>
-      <pubDate>Mon, 23 Mar 2026 10:29:15 +0000</pubDate>
-      <guid>https://www.sports.ru/figure-skating/person/kamila-valieva/</guid>
+      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
