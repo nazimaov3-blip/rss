@@ -1,494 +1,498 @@
 <?xml version="1.0" ?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Футбол - Azerisport.com - Все об Азербайджанском спорте</title>
     <link>https://azerisport.com/football/</link>
     <description>Автоконвертация сайта в RSS</description>
     <language>ru-RU</language>
-    <lastBuildDate>Mon, 23 Mar 2026 13:25:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 08:25:20 +0000</lastBuildDate>
     <generator>Multi Source Site to RSS Converter</generator>
+    <docs>https://www.rssboard.org/rss-specification</docs>
+    <ttl>60</ttl>
     <item>
       <title>Фоторепортаж</title>
       <link>https://azerisport.com/ru/photostory/</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/photostory/</guid>
       <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/photostory/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
       <title>Париж-2024</title>
       <link>https://azerisport.com/ru/olimpizm/paris-2024/</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/olimpizm/paris-2024/</guid>
       <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/olimpizm/paris-2024/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
       <title>Токио-2020</title>
       <link>https://azerisport.com/ru/olimpizm/tokio-2020/</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/olimpizm/tokio-2020/</guid>
       <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/olimpizm/tokio-2020/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
       <title>Другие виды</title>
       <link>https://azerisport.com/ru/other/</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/other/</guid>
       <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/other/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
       <title>Гимнастика</title>
       <link>https://azerisport.com/ru/gymnastics/</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/gymnastics/</guid>
       <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/gymnastics/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
       <title>Фехтование</title>
       <link>https://azerisport.com/ru/fencing/</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/fencing/</guid>
       <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/fencing/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
       <title>Паралимпизм</title>
       <link>https://azerisport.com/ru/paralympics/</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/paralympics/</guid>
       <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/paralympics/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
       <title>Наши лицензии</title>
       <link>https://azerisport.com/ru/licences/</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/licences/</guid>
       <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/licences/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
       <title>Тяжелая атлетика</title>
       <link>https://azerisport.com/ru/weightlifting/</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/weightlifting/</guid>
       <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/weightlifting/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
       <title>Пекин-2008</title>
       <link>https://azerisport.com/ru/beijing2008/</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/beijing2008/</guid>
       <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/beijing2008/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
       <title>Лондон-2012</title>
       <link>https://azerisport.com/ru/london2012/</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/london2012/</guid>
       <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/london2012/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
       <title>Легкая атлетика</title>
       <link>https://azerisport.com/ru/athletics/</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/athletics/</guid>
       <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/athletics/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
       <title>Фигурное катание</title>
       <link>https://azerisport.com/ru/figureskating/</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/figureskating/</guid>
       <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/figureskating/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
       <title>Блог Вугара Зейналова</title>
       <link>https://azerisport.com/ru/blog/vugar/</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/blog/vugar/</guid>
       <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/blog/vugar/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
       <title>Блог Руслана Микайыллы</title>
       <link>https://azerisport.com/ru/blog/ruslan/</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/blog/ruslan/</guid>
       <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/blog/ruslan/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
       <title>Блог Имрана Гусейнова</title>
       <link>https://azerisport.com/ru/blog/imran/</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/blog/imran/</guid>
       <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/blog/imran/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
       <title>Блог Рустама Фаталиева</title>
       <link>https://azerisport.com/ru/blog/frustam/</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/blog/frustam/</guid>
       <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/blog/frustam/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
       <title>Блог Фаната</title>
       <link>https://azerisport.com/ru/blog/fanblog/</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/blog/fanblog/</guid>
       <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/blog/fanblog/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
       <title>Блог Айдына Багирова</title>
       <link>https://azerisport.com/ru/blog/aydin/</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/blog/aydin/</guid>
       <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/blog/aydin/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
-      <title>Шахрудин МАГОМЕДАЛИЕВ: Никто не может отрицать, что Сабах показывает хороший футбол. Жаль, мы поздно спохватились</title>
+      <title>Велько СИМИЧ: Поражение Карабаха? Ничего удивительного</title>
+      <link>https://azerisport.com/ru/football/20260325110131329-Velko-SIMICH-Porazhenie-Karabakha-Nichego-udivitelnogo.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/football/20260325110131329-Velko-SIMICH-Porazhenie-Karabakha-Nichego-udivitelnogo.html</guid>
+      <description>Сегодня 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного Вингер азербайджанского футбольного клуба «Сабах» Велько Симич ответил на вопросы корреспондента azerisport.com.</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
+      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/25/thumb20260325110131329_426.webp?2026-03-25+11%3A04%3A07"/>
+    </item>
+    <item>
+      <title>Сегодня 00:01 Вусал Искендерли – о причине затянувшегося отсутствия в «милли», матчах Серии ФИФА и игре в Албании</title>
+      <link>https://azerisport.com/ru/football/20260325000022324-Vusal-Iskenderli-o-prichine-zatyanuvshegosya-otsutstviya-v-milli-matchakh-Serii-FIFA-i-igre-v-Albanii.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/football/20260325000022324-Vusal-Iskenderli-o-prichine-zatyanuvshegosya-otsutstviya-v-milli-matchakh-Serii-FIFA-i-igre-v-Albanii.html</guid>
+      <description>Сегодня 00:01 Вусал Искендерли – о причине затянувшегося отсутствия в «милли», матчах Серии ФИФА и игре в Албании Вчера 11:05 Азербайджанский хавбек российского клуба: Перед нами стоят максимальные задачи Вчера 00:01 «Милли» перед матчами Серии ФИФА: неплохой багаж результативности 23 марта 11:09 Шахрудин МАГОМЕДАЛИ...</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
+      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/25/thumb20260325000022324_276.webp?2026-03-25+00%3A01%3A30"/>
+    </item>
+    <item>
+      <title>Вчера 11:05 Азербайджанский хавбек российского клуба: Перед нами стоят максимальные задачи</title>
+      <link>https://azerisport.com/ru/football/20260324110247158-Azerbaidzhanskii-khavbek-rossiiskogo-kluba-Pered-nami-stoyat-maksimalnye-zadachi.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/football/20260324110247158-Azerbaidzhanskii-khavbek-rossiiskogo-kluba-Pered-nami-stoyat-maksimalnye-zadachi.html</guid>
+      <description>Сегодня 00:01 Вусал Искендерли – о причине затянувшегося отсутствия в «милли», матчах Серии ФИФА и игре в Албании Вчера 11:05 Азербайджанский хавбек российского клуба: Перед нами стоят максимальные задачи Вчера 00:01 «Милли» перед матчами Серии ФИФА: неплохой багаж результативности 23 марта 11:09 Шахрудин МАГОМЕДАЛИ...</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
+      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/25/thumb20260325000022324_276.webp?2026-03-25+00%3A01%3A30"/>
+    </item>
+    <item>
+      <title>Вчера 00:01 «Милли» перед матчами Серии ФИФА: неплохой багаж результативности</title>
+      <link>https://azerisport.com/ru/football/20260324000004544-Milli-pered-matchami-Serii-FIFA-neplokhoi-bagazh-rezultativnosti.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/football/20260324000004544-Milli-pered-matchami-Serii-FIFA-neplokhoi-bagazh-rezultativnosti.html</guid>
+      <description>Сегодня 00:01 Вусал Искендерли – о причине затянувшегося отсутствия в «милли», матчах Серии ФИФА и игре в Албании Вчера 11:05 Азербайджанский хавбек российского клуба: Перед нами стоят максимальные задачи Вчера 00:01 «Милли» перед матчами Серии ФИФА: неплохой багаж результативности 23 марта 11:09 Шахрудин МАГОМЕДАЛИ...</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
+      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/25/thumb20260325000022324_276.webp?2026-03-25+00%3A01%3A30"/>
+    </item>
+    <item>
+      <title>23 марта 11:09 Шахрудин МАГОМЕДАЛИЕВ: Никто не может отрицать, что Сабах показывает хороший футбол. Жаль, мы поздно спохватились</title>
       <link>https://azerisport.com/ru/football/20260323110914981-SHakhrudin-MAGOMEDALIEV-Nikto-ne-mozhet-otritsat-chto-Sabakh-pokazyvaet-khoroshii-futbol-ZHal-my-pozdno-spokhvatilis.html</link>
-      <description>Сегодня 11:09 Шахрудин МАГОМЕДАЛИЕВ: Никто не может отрицать, что Сабах показывает хороший футбол. Жаль, мы поздно спохватились Вратарь агдамского «Карабаха» и сборной Азербайджана по футболу Шахрудин Магомедалиев ответил на вопросы корреспондента azerisport.com.</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260323110914981-SHakhrudin-MAGOMEDALIEV-Nikto-ne-mozhet-otritsat-chto-Sabakh-pokazyvaet-khoroshii-futbol-ZHal-my-pozdno-spokhvatilis.html</guid>
+      <guid isPermaLink="false">https://azerisport.com/ru/football/20260323110914981-SHakhrudin-MAGOMEDALIEV-Nikto-ne-mozhet-otritsat-chto-Sabakh-pokazyvaet-khoroshii-futbol-ZHal-my-pozdno-spokhvatilis.html</guid>
+      <description>Сегодня 00:01 Вусал Искендерли – о причине затянувшегося отсутствия в «милли», матчах Серии ФИФА и игре в Албании Вчера 11:05 Азербайджанский хавбек российского клуба: Перед нами стоят максимальные задачи Вчера 00:01 «Милли» перед матчами Серии ФИФА: неплохой багаж результативности 23 марта 11:09 Шахрудин МАГОМЕДАЛИ...</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
+      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/25/thumb20260325000022324_276.webp?2026-03-25+00%3A01%3A30"/>
     </item>
     <item>
-      <title>Сегодня 00:01 Сборная Азербайджана. Новички, возвращенцы и затянувшееся ожидание радости</title>
-      <link>https://azerisport.com/ru/football/20260323000200729-Sbornaya-Azerbaidzhana-Novichki-vozvrashcentsy-i-zatyanuvsheesya-ozhidanie-radosti.html</link>
-      <description>Сегодня 00:01 Сборная Азербайджана. Новички, возвращенцы и затянувшееся ожидание радости Вчера 11:10 Руан РЕНАТО: Я бы сделал все возможное, чтобы помочь сборной Азербайджана Вчера 00:05 Организованные товузцы, ненужное обещание и несобранные радары 21 марта 11:12 Дженк СУМЕР: Нефтчи будет следовать своим планам, но...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260323000200729-Sbornaya-Azerbaidzhana-Novichki-vozvrashcentsy-i-zatyanuvsheesya-ozhidanie-radosti.html</guid>
+      <title>Эюбов ответит на вопросы журналистов</title>
+      <link>https://azerisport.com/ru/football/20260325120355327-Eyubov-otvetit-na-voprosy-zhurnalistov.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/football/20260325120355327-Eyubov-otvetit-na-voprosy-zhurnalistov.html</guid>
+      <description>Сегодня 12:05 Эюбов ответит на вопросы журналистов Завтра в 13:45 на стадионе «Палмс Спортс Арена» состоится предматчевая тренировка молодежной сборной Азербайджана против сверстников из Португалии в рамках отбора на ЕВРО-2027 по футболу (U-21).</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
+      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/25/thumb20260325120355327_276.webp?2026-03-25+12%3A06%3A21"/>
     </item>
     <item>
-      <title>Вчера 11:10 Руан РЕНАТО: Я бы сделал все возможное, чтобы помочь сборной Азербайджана</title>
-      <link>https://azerisport.com/ru/football/20260322110203848-Ruan-RENATO-YA-by-sdelal-vse-vozmozhnoe-chtoby-pomoch-sbornoi-Azerbaidzhana.html</link>
-      <description>Сегодня 00:01 Сборная Азербайджана. Новички, возвращенцы и затянувшееся ожидание радости Вчера 11:10 Руан РЕНАТО: Я бы сделал все возможное, чтобы помочь сборной Азербайджана Вчера 00:05 Организованные товузцы, ненужное обещание и несобранные радары 21 марта 11:12 Дженк СУМЕР: Нефтчи будет следовать своим планам, но...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260322110203848-Ruan-RENATO-YA-by-sdelal-vse-vozmozhnoe-chtoby-pomoch-sbornoi-Azerbaidzhana.html</guid>
+      <title>Азербайджан против Литвы</title>
+      <link>https://azerisport.com/ru/football/20260325101949430-Azerbaidzhan-protiv-Litvy.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/football/20260325101949430-Azerbaidzhan-protiv-Litvy.html</guid>
+      <description>Сегодня 10:21 Азербайджан против Литвы Сегодня юношеская сборная Азербайджана по футболу (U-19) проведет стартовый матч 1-го раунда отбора на ЕВРО-2027.</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
+      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/25/thumb20260325101949430_276.webp?2026-03-25+10%3A21%3A11"/>
     </item>
     <item>
-      <title>Вчера 00:05 Организованные товузцы, ненужное обещание и несобранные радары</title>
-      <link>https://azerisport.com/ru/football/20260322000548530-Organizovannye-tovuztsy-nenuzhnoe-obeshcanie-i-nesobrannye-radary.html</link>
-      <description>Сегодня 00:01 Сборная Азербайджана. Новички, возвращенцы и затянувшееся ожидание радости Вчера 11:10 Руан РЕНАТО: Я бы сделал все возможное, чтобы помочь сборной Азербайджана Вчера 00:05 Организованные товузцы, ненужное обещание и несобранные радары 21 марта 11:12 Дженк СУМЕР: Нефтчи будет следовать своим планам, но...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260322000548530-Organizovannye-tovuztsy-nenuzhnoe-obeshcanie-i-nesobrannye-radary.html</guid>
+      <title>Португальский защитник: Нам нужно мощно начать против Азербайджана</title>
+      <link>https://azerisport.com/ru/football/20260324233503948-Portugalskii-zashcitnik-Nam-nuzhno-moshcno-nachat-protiv-Azerbaidzhana.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/football/20260324233503948-Portugalskii-zashcitnik-Nam-nuzhno-moshcno-nachat-protiv-Azerbaidzhana.html</guid>
+      <description>Вчера 23:35 Португальский защитник: Нам нужно мощно начать против Азербайджана Защитник молодежной сборной Португалии по футболу Тьягу Габриэл поделился мнением касательно предстоящих матчей отбора на ЕВРО-2027 (U-21) против команд Азербайджана (27 марта) и Шотландии (31 марта), передает azerisport.com.</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
+      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/24/thumb20260324233503948_276.webp?2026-03-24+23%3A35%3A25"/>
     </item>
     <item>
-      <title>21 марта 11:12 Дженк СУМЕР: Нефтчи будет следовать своим планам, но может и звездный трансфер будет</title>
-      <link>https://azerisport.com/ru/football/20260321111112508-Dzhenk-SUMER-Neftchi-budet-sledovat-svoim-planam-no-mozhet-i-zvezdnyi-transfer-budet.html</link>
-      <description>Сегодня 00:01 Сборная Азербайджана. Новички, возвращенцы и затянувшееся ожидание радости Вчера 11:10 Руан РЕНАТО: Я бы сделал все возможное, чтобы помочь сборной Азербайджана Вчера 00:05 Организованные товузцы, ненужное обещание и несобранные радары 21 марта 11:12 Дженк СУМЕР: Нефтчи будет следовать своим планам, но...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260321111112508-Dzhenk-SUMER-Neftchi-budet-sledovat-svoim-planam-no-mozhet-i-zvezdnyi-transfer-budet.html</guid>
+      <title>Какау назвал состав перед матчами с Азербайджаном</title>
+      <link>https://azerisport.com/ru/football/20260324231351774-Kakau-nazval-sostav-pered-matchami-s-Azerbaidzhanom.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/football/20260324231351774-Kakau-nazval-sostav-pered-matchami-s-Azerbaidzhanom.html</guid>
+      <description>Вчера 23:13 Какау назвал состав перед матчами с Азербайджаном Обнародован состав сборной Казахстана по футзалу на предстоящие сборы и два товарищеских матча с командой Азербайджана в Актау (13 и 15 апреля).</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
+      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/24/thumb20260324231351774_276.webp?2026-03-24+23%3A14%3A12"/>
+    </item>
+    <item>
+      <title>Азербайджан выстоял против Болгарии</title>
+      <link>https://azerisport.com/ru/football/20260324111842529-Azerbaidzhan-vystoyal-protiv-Bolgarii.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/football/20260324111842529-Azerbaidzhan-vystoyal-protiv-Bolgarii.html</guid>
+      <description>Вчера 18:53 Азербайджан выстоял против Болгарии Сегодня юношеская сборная Азербайджана по футболу (U-17) провела стартовый матч 2-го отборочного раунда ЕВРО-2026.</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
+      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/24/thumb20260324111842529_276.webp?2026-03-24+19%3A42%3A36"/>
+    </item>
+    <item>
+      <title>Кипрское СМИ – о возможном приобретении защитника из Карабаха</title>
+      <link>https://azerisport.com/ru/football/20260324183017877-Kiprskoe-SMI-o-vozmozhnom-priobretenii-zashcitnika-iz-Karabakha.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/football/20260324183017877-Kiprskoe-SMI-o-vozmozhnom-priobretenii-zashcitnika-iz-Karabakha.html</guid>
+      <description>Вчера 18:31 Кипрское СМИ – о возможном приобретении защитника из Карабаха В Кипре отреагировали на информацию о возможном уходе защитника азербайджанского футбольного клуба «Карабах» Сами Ммаэ и переходе в местную «Омонию».</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
+      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/24/thumb20260324183017877_276.webp?2026-03-24+18%3A30%3A57"/>
+    </item>
+    <item>
+      <title>Ханкенди и ГЛ учинили разгромы</title>
+      <link>https://azerisport.com/ru/football/20260324104836109-KHankendi-i-GL-uchinili-razgromy.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/football/20260324104836109-KHankendi-i-GL-uchinili-razgromy.html</guid>
+      <description>Вчера 16:58 Ханкенди и ГЛ учинили разгромы Сегодня завершился 19-й тур 2-й Лиги Азербайджана по футболу.</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
+      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/24/thumb20260324104836109_276.webp?2026-03-24+17%3A49%3A34"/>
+    </item>
+    <item>
+      <title>Наставник сборной Португалии пригласил еще одного хавбека перед матчем с Азербайджаном</title>
+      <link>https://azerisport.com/ru/football/20260324151112407-Nastavnik-sbornoi-Portugalii-priglasil-eshce-odnogo-khavbeka-pered-matchem-s-Azerbaidzhanom.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/football/20260324151112407-Nastavnik-sbornoi-Portugalii-priglasil-eshce-odnogo-khavbeka-pered-matchem-s-Azerbaidzhanom.html</guid>
+      <description>Вчера 15:09 Наставник сборной Португалии пригласил еще одного хавбека перед матчем с Азербайджаном Главный тренер молодежной сборной Португалии по футболу Луиш Фрейре в преддверии матча 8-го тура группы B отбора на ЕВРО-2027 (U-21) против команды Азербайджана пригласил в состав еще одного игрока.</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
+      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/24/thumb20260324151112407_276.webp?2026-03-24+15%3A12%3A03"/>
+    </item>
+    <item>
+      <title>Нигерийский вингер отправился в Азербайджан ради Карабаха</title>
+      <link>https://azerisport.com/ru/football/20260324133730885-Nigeriiskii-vinger-otpravilsya-v-Azerbaidzhan-radi-Karabakha.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/football/20260324133730885-Nigeriiskii-vinger-otpravilsya-v-Azerbaidzhan-radi-Karabakha.html</guid>
+      <description>Вчера 13:36 Нигерийский вингер отправился в Азербайджан ради Карабаха Азербайджанский футбольный клуб «Карабах» может пополнить ряды новым легионером.</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
+      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/24/thumb20260324133730885_276.webp?2026-03-24+13%3A37%3A59"/>
+    </item>
+    <item>
+      <title>Хавбек сборной Португалии: Игра с Азербайджаном – самая важная</title>
+      <link>https://azerisport.com/ru/football/20260324123210537-KHavbek-sbornoi-Portugalii-Igra-s-Azerbaidzhanom-samaya-vazhnaya.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/football/20260324123210537-KHavbek-sbornoi-Portugalii-Igra-s-Azerbaidzhanom-samaya-vazhnaya.html</guid>
+      <description>Вчера 12:37 Хавбек сборной Португалии: Игра с Азербайджаном – самая важная Хавбек молодежной сборной Португалии по футболу Жоау Симоэш поделился мнением касательно предстоящих матчей отбора на ЕВРО-2027 (U-21) против команд Азербайджана (27 марта) и Шотландии (31 марта), передает azerisport.com.</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
+      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/24/thumb20260324123210537_276.webp?2026-03-24+23%3A32%3A29"/>
+    </item>
+    <item>
+      <title>Евгений Куксевич: В нашем составе есть новые игроки, которых хотим проверить</title>
+      <link>https://azerisport.com/ru/football/20260324113733276-Evgenii-Kuksevich-V-nashem-sostave-est-novye-igroki-kotorykh-khotim-proverit.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/football/20260324113733276-Evgenii-Kuksevich-V-nashem-sostave-est-novye-igroki-kotorykh-khotim-proverit.html</guid>
+      <description>Вчера 11:37 Евгений Куксевич: В нашем составе есть новые игроки, которых хотим проверить Главный тренер сборной Азербайджана по футзалу Евгений Куксевич высказался по поводу стартовавшего сбора «милли» в преддверии товарищеских матчей, передает azerisport.com.</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
+      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/24/thumb20260324113733276_276.webp?2026-03-24+11%3A38%3A17"/>
+    </item>
+    <item>
+      <title>Агент белорусского вратаря – о возможности перейти в Карабах: Будем прорабатывать все варианты</title>
+      <link>https://azerisport.com/ru/football/20260324101938830-Agent-belorusskogo-vratarya-o-vozmozhnosti-pereiti-v-Karabakh-Budem-prorabatyvat-vse-varianty.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/football/20260324101938830-Agent-belorusskogo-vratarya-o-vozmozhnosti-pereiti-v-Karabakh-Budem-prorabatyvat-vse-varianty.html</guid>
+      <description>Вчера 10:38 Агент белорусского вратаря – о возможности перейти в Карабах: Будем прорабатывать все варианты Агент голкипера азербайджанского футбольного клуба «Имишли» Андрея Синенко Дмитрий Хлебосолов прокомментировал разговоры об интересе к его клиенту со стороны агдамского «Карабаха», передает azerisport.com.</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
+      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/24/thumb20260324101938830_276.webp?2026-03-24+11%3A09%3A30"/>
+    </item>
+    <item>
+      <title>«Милли» проведет еще два матча</title>
+      <link>https://azerisport.com/ru/football/20260324100703974-Milli-provedet-eshce-dva-matcha.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/football/20260324100703974-Milli-provedet-eshce-dva-matcha.html</guid>
+      <description>Вчера 10:07 «Милли» проведет еще два матча Сборная Азербайджана по футзалу в следующем месяце проведет еще два товарищеских матча.</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
+      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/24/thumb20260324100703974_276.webp?2026-03-24+17%3A51%3A42"/>
+    </item>
+    <item>
+      <title>Эрен Айдын: Рашад Садыхов оказывает мне поддержку</title>
+      <link>https://azerisport.com/ru/football/20260323231439583-Eren-Aidyn-Rashad-Sadykhov-okazyvaet-mne-podderzhku.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/football/20260323231439583-Eren-Aidyn-Rashad-Sadykhov-okazyvaet-mne-podderzhku.html</guid>
+      <description>23 марта 23:14 Эрен Айдын: Рашад Садыхов оказывает мне поддержку Хавбек бакинского «Зире» Эрен Айдын прокомментировал azerisport.com матч 25-го тура Мисли премьер-лиги Азербайджана по футболу против «Карван-Евлаха» (1:0) и рассказал о предложениях из Европы.</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
+      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/23/thumb20260323231439583_276.webp?2026-03-23+23%3A17%3A34"/>
+    </item>
+    <item>
+      <title>Наставник «милли» отправился в Турцию</title>
+      <link>https://azerisport.com/ru/football/20260323190842518-Nastavnik-milli-otpravilsya-v-Turtsiyu.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/football/20260323190842518-Nastavnik-milli-otpravilsya-v-Turtsiyu.html</guid>
+      <description>23 марта 19:09 Наставник «милли» отправился в Турцию Главный тренер женской сборной Азербайджана по футболу Сиясет Аскеров отправился в Турцию.</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
+      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/23/thumb20260323190842518_276.webp?2026-03-23+19%3A47%3A36"/>
+    </item>
+    <item>
+      <title>Представители АФФА на семинаре UEFA GROW</title>
+      <link>https://azerisport.com/ru/football/20260323183625433-Predstaviteli-AFFA-na-seminare-UEFA-GROW.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/football/20260323183625433-Predstaviteli-AFFA-na-seminare-UEFA-GROW.html</guid>
+      <description>23 марта 18:36 Представители АФФА на семинаре UEFA GROW В Вене (Австрия) состоялась третья конференция УЕФА Grow.</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
+      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/23/thumb20260323183625433_276.webp?2026-03-23+18%3A36%3A58"/>
+    </item>
+    <item>
+      <title>Сначала наставник Сент-Люсии, потом Аббасов</title>
+      <link>https://azerisport.com/ru/football/20260323175937831-Snachala-nastavnik-Sent-Lyusii-potom-Abbasov.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/football/20260323175937831-Snachala-nastavnik-Sent-Lyusii-potom-Abbasov.html</guid>
+      <description>23 марта 18:01 Сначала наставник Сент-Люсии, потом Аббасов Стало известно время начала пресс-конференций главных тренеров сборных Азербайджана и Сент-Люсии в преддверии первого матча турнира Серии ФИФА по футболу в Сумгайыте.</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
+      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/23/thumb20260323175937831_276.webp?2026-03-23+18%3A00%3A31"/>
     </item>
     <item>
       <title>Аутсайдер одолел Губу, Динамо победило АГ, Ширван и ШС сгоняли ничью</title>
       <link>https://azerisport.com/ru/football/20260323105605591-Autsaider-odolel-Gubu-Dinamo-pobedilo-AG-SHirvan-i-SHS-sgonyali-nichyu.html</link>
-      <description>Сегодня 17:03 Аутсайдер одолел Губу, Динамо победило АГ, Ширван и ШС сгоняли ничью Сегодня стартовал 19-й тур 2-й Лиги Азербайджана по футболу.</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260323105605591-Autsaider-odolel-Gubu-Dinamo-pobedilo-AG-SHirvan-i-SHS-sgonyali-nichyu.html</guid>
+      <guid isPermaLink="false">https://azerisport.com/ru/football/20260323105605591-Autsaider-odolel-Gubu-Dinamo-pobedilo-AG-SHirvan-i-SHS-sgonyali-nichyu.html</guid>
+      <description>23 марта 17:03 Аутсайдер одолел Губу, Динамо победило АГ, Ширван и ШС сгоняли ничью Сегодня стартовал 19-й тур 2-й Лиги Азербайджана по футболу.</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
+      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/23/thumb20260323105605591_276.webp?2026-03-23+17%3A03%3A08"/>
     </item>
     <item>
-      <title>Вингер Нефтчи договорился с кипрским клубом</title>
-      <link>https://azerisport.com/ru/football/20260323142210245-Vinger-Neftchi-dogovorilsya-s-kiprskim-klubom.html</link>
-      <description>Сегодня 14:36 Вингер Нефтчи договорился с кипрским клубом Вингер Мурад Мамедов покинет ряды азербайджанского футбольного клуба «Нефтчи» по завершении этого сезона.</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260323142210245-Vinger-Neftchi-dogovorilsya-s-kiprskim-klubom.html</guid>
+      <title>11:34 Что ожидать от второго матча Азербайджана с Португалией?</title>
+      <link>https://azerisport.com/ru/video/20260325113454091-CHto-ozhidat-ot-vtorogo-matcha-Azerbaidzhana-s-Portugaliei.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/video/20260325113454091-CHto-ozhidat-ot-vtorogo-matcha-Azerbaidzhana-s-Portugaliei.html</guid>
+      <description>25 марта 12:05 Эюбов ответит на вопросы журналистов 11:34 Что ожидать от второго матча Азербайджана с Португалией? 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного 10:47 Историческое золото азербайджанского таэквондо 10:21 Азербайджан против Литвы 10:07 Ламия Велиева: Всю свою силу и настоящую форму я пл...</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
-      <title>Капитан Кяпаза: Эта игра с Карабахом была лучшей в нашем исполнении</title>
-      <link>https://azerisport.com/ru/football/20260323133301695-Kapitan-Kyapaza-Eta-igra-s-Karabakhom-byla-luchshei-v-nashem-ispolnenii.html</link>
-      <description>Сегодня 13:34 Капитан Кяпаза: Эта игра с Карабахом была лучшей в нашем исполнении Капитан гянджинского «Кяпаза» Диого Вердашка прокомментировал azerisport.com победу в матче 25-го тура Мисли премьер-лиги Азербайджана по футболу над агдамским «Карабахом» (1:0).</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260323133301695-Kapitan-Kyapaza-Eta-igra-s-Karabakhom-byla-luchshei-v-nashem-ispolnenii.html</guid>
+      <title>10:47 Историческое золото азербайджанского таэквондо</title>
+      <link>https://azerisport.com/ru/taekvondo/20260325104707454-Istoricheskoe-zoloto-azerbaidzhanskogo-taekvondo.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/taekvondo/20260325104707454-Istoricheskoe-zoloto-azerbaidzhanskogo-taekvondo.html</guid>
+      <description>25 марта 12:05 Эюбов ответит на вопросы журналистов 11:34 Что ожидать от второго матча Азербайджана с Португалией? 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного 10:47 Историческое золото азербайджанского таэквондо 10:21 Азербайджан против Литвы 10:07 Ламия Велиева: Всю свою силу и настоящую форму я пл...</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
-      <title>Кипрский клуб может подписать защитника, наказанного Гурбаном Гурбановым</title>
-      <link>https://azerisport.com/ru/football/20260323130234594-Kiprskii-klub-mozhet-podpisat-zashcitnika-nakazannogo-Gurbanom-Gurbanovym.html</link>
-      <description>Сегодня 13:10 Кипрский клуб может подписать защитника, наказанного Гурбаном Гурбановым Защитник азербайджанского футбольного клуба «Карабах» Сами Ммаэ может продолжить карьеру в Кипре.</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260323130234594-Kiprskii-klub-mozhet-podpisat-zashcitnika-nakazannogo-Gurbanom-Gurbanovym.html</guid>
+      <title>10:07 Ламия Велиева: Всю свою силу и настоящую форму я планирую показать именно на этих соревнованиях</title>
+      <link>https://azerisport.com/ru/athletics/20260325100621156-Lamiya-Velieva-Vsyu-svoyu-silu-i-nastoyashcuyu-formu-ya-planiruyu-pokazat-imenno-na-etikh-sorevnovaniyakh.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/athletics/20260325100621156-Lamiya-Velieva-Vsyu-svoyu-silu-i-nastoyashcuyu-formu-ya-planiruyu-pokazat-imenno-na-etikh-sorevnovaniyakh.html</guid>
+      <description>25 марта 12:05 Эюбов ответит на вопросы журналистов 11:34 Что ожидать от второго матча Азербайджана с Португалией? 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного 10:47 Историческое золото азербайджанского таэквондо 10:21 Азербайджан против Литвы 10:07 Ламия Велиева: Всю свою силу и настоящую форму я пл...</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
-      <title>Нариман Ахундзаде: У меня в США все в порядке</title>
-      <link>https://azerisport.com/ru/football/20260323122932512-Nariman-Akhundzade-U-menya-v-SSHA-vse-v-poryadke.html</link>
-      <description>Сегодня 12:31 Нариман Ахундзаде: У меня в США все в порядке Азербайджанский форвард американского «Коламбус Крю» Нариман Ахундзаде рассказал azerisport.com об адаптации в новом клубе, а также своем дебюте в матче 5-го тура МЛС против «Торонто» (1:2), где он вышел на поле на 88-й минуте встречи.</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260323122932512-Nariman-Akhundzade-U-menya-v-SSHA-vse-v-poryadke.html</guid>
+      <title>19:41 Азербайджанская четверка проиграла в Тбилиси</title>
+      <link>https://azerisport.com/ru/paralympics/20260324173936393-Azerbaidzhanskaya-chetverka-proigrala-v-Tbilisi.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/paralympics/20260324173936393-Azerbaidzhanskaya-chetverka-proigrala-v-Tbilisi.html</guid>
+      <description>25 марта 12:05 Эюбов ответит на вопросы журналистов 11:34 Что ожидать от второго матча Азербайджана с Португалией? 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного 10:47 Историческое золото азербайджанского таэквондо 10:21 Азербайджан против Литвы 10:07 Ламия Велиева: Всю свою силу и настоящую форму я пл...</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
-      <title>Азербайджанский клуб обратился за помощью из-за серьезных финансовых проблем</title>
-      <link>https://azerisport.com/ru/football/20260323104203225-Azerbaidzhanskii-klub-obratilsya-za-pomoshcyu-iz-za-sereznykh-finansovykh-problem.html</link>
-      <description>Сегодня 10:40 Азербайджанский клуб обратился за помощью из-за серьезных финансовых проблем Азербайджанский футбольный клуб «Губа», выступающий во 2-й Лиге, выступил с обращением в связи с тяжелой финансовой ситуацией, с которой столкнулся после недавнего ухода с поста президента клуба Аяза Абдуллаева, передает azeri...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260323104203225-Azerbaidzhanskii-klub-obratilsya-za-pomoshcyu-iz-za-sereznykh-finansovykh-problem.html</guid>
+      <title>19:31 Азербайджанские дзюдоисты выбрали Германию</title>
+      <link>https://azerisport.com/ru/judo/20260324193023503-Azerbaidzhanskie-dzyudoisty-vybrali-Germaniyu.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/judo/20260324193023503-Azerbaidzhanskie-dzyudoisty-vybrali-Germaniyu.html</guid>
+      <description>25 марта 12:05 Эюбов ответит на вопросы журналистов 11:34 Что ожидать от второго матча Азербайджана с Португалией? 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного 10:47 Историческое золото азербайджанского таэквондо 10:21 Азербайджан против Литвы 10:07 Ламия Велиева: Всю свою силу и настоящую форму я пл...</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
-      <title>Эльмар Бахшиев: Контакт с Камило Дураном, скорее, был</title>
-      <link>https://azerisport.com/ru/football/20260322194751905-Elmar-Bakhshiev-Kontakt-s-Kamilo-Duranom-skoree-byl.html</link>
-      <description>Вчера 19:47 Эльмар Бахшиев: Контакт с Камило Дураном, скорее, был Азербайджанский футбольный тренер Эльмар Бахшиев прокомментировал azerisport.com поражение «Карабаха» от «Кяпаза» в 25-м туре Мисли премьер-лиги (0:1) и высказался о борьбе в чемпионате в целом.</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260322194751905-Elmar-Bakhshiev-Kontakt-s-Kamilo-Duranom-skoree-byl.html</guid>
+      <title>19:07 Азербайджан поднялся в мировом рейтинге</title>
+      <link>https://azerisport.com/ru/basketball/20260324190707902-Azerbaidzhan-podnyalsya-v-mirovom-reitinge.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/basketball/20260324190707902-Azerbaidzhan-podnyalsya-v-mirovom-reitinge.html</guid>
+      <description>25 марта 12:05 Эюбов ответит на вопросы журналистов 11:34 Что ожидать от второго матча Азербайджана с Португалией? 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного 10:47 Историческое золото азербайджанского таэквондо 10:21 Азербайджан против Литвы 10:07 Ламия Велиева: Всю свою силу и настоящую форму я пл...</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
-      <title>Бывший легионер Сабаха выбрал СД</title>
-      <link>https://azerisport.com/ru/football/20260322174614800-Byvshii-legioner-Sabakha-vybral-SD.html</link>
-      <description>Вчера 17:46 Бывший легионер Сабаха выбрал СД Боснийский защитник Боян Летич, после ухода из азербайджанского футбольного клуба «Сабах», нашел себе новую команду.</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260322174614800-Byvshii-legioner-Sabakha-vybral-SD.html</guid>
+      <title>18:03 Борцы сборной Азербайджана лидируют в российском рейтинге</title>
+      <link>https://azerisport.com/ru/wrestling/20260324175849692-Bortsy-sbornoi-Azerbaidzhana-lidiruyut-v-rossiiskom-reitinge.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/wrestling/20260324175849692-Bortsy-sbornoi-Azerbaidzhana-lidiruyut-v-rossiiskom-reitinge.html</guid>
+      <description>25 марта 12:05 Эюбов ответит на вопросы журналистов 11:34 Что ожидать от второго матча Азербайджана с Португалией? 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного 10:47 Историческое золото азербайджанского таэквондо 10:21 Азербайджан против Литвы 10:07 Ламия Велиева: Всю свою силу и настоящую форму я пл...</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
-      <title>Габала разгромила аутсайдера</title>
-      <link>https://azerisport.com/ru/football/20260322114412938-Gabala-razgromila-autsaidera.html</link>
-      <description>Вчера 16:53 Габала разгромила аутсайдера Сегодня завершился 21-й тур чемпионата Азербайджана по футболу среди дублирующих команд.</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260322114412938-Gabala-razgromila-autsaidera.html</guid>
+      <title>15:42 30-летие большой несправедливости по отношению к Азербайджану</title>
+      <link>https://azerisport.com/ru/video/20260324153848378-30-letie-bolshoi-nespravedlivosti-po-otnosheniyu-k-Azerbaidzhanu.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/video/20260324153848378-30-letie-bolshoi-nespravedlivosti-po-otnosheniyu-k-Azerbaidzhanu.html</guid>
+      <description>25 марта 12:05 Эюбов ответит на вопросы журналистов 11:34 Что ожидать от второго матча Азербайджана с Португалией? 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного 10:47 Историческое золото азербайджанского таэквондо 10:21 Азербайджан против Литвы 10:07 Ламия Велиева: Всю свою силу и настоящую форму я пл...</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
-      <title>Миккельс повторил результат форварда Нефтчи</title>
-      <link>https://azerisport.com/ru/football/20260322153532397-Mikkels-povtoril-rezultat-forvarda-Neftchi.html</link>
-      <description>Вчера 15:35 Миккельс повторил результат форварда Нефтчи Форвард бакинского футбольного клуба «Сабах» Джой-Ланс Миккельс стал вторым легионером в истории чемпионатов Азербайджана, которому удалось забить по 15 голов за два разных сезона.</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260322153532397-Mikkels-povtoril-rezultat-forvarda-Neftchi.html</guid>
+      <title>15:28 Велиева провалила ЧМ</title>
+      <link>https://azerisport.com/ru/athletics/20260324153235846-Velieva-provalila-CHM.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/athletics/20260324153235846-Velieva-provalila-CHM.html</guid>
+      <description>25 марта 12:05 Эюбов ответит на вопросы журналистов 11:34 Что ожидать от второго матча Азербайджана с Португалией? 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного 10:47 Историческое золото азербайджанского таэквондо 10:21 Азербайджан против Литвы 10:07 Ламия Велиева: Всю свою силу и настоящую форму я пл...</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
-      <title>Эмин Махмудов догнал Гурбана Гурбанова в истории Нефтчи</title>
-      <link>https://azerisport.com/ru/football/20260322145934939-Emin-Makhmudov-dognal-Gurbana-Gurbanova-v-istorii-Neftchi.html</link>
-      <description>Вчера 15:01 Эмин Махмудов догнал Гурбана Гурбанова в истории Нефтчи Капитан азербайджанского футбольного клуба «Нефтчи» Эмин Махмудов забил свой очередной юбилейный гол в этой команде.</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260322145934939-Emin-Makhmudov-dognal-Gurbana-Gurbanova-v-istorii-Neftchi.html</guid>
+      <title>14:33 Мамедов попытается победить в турнире с участием Карлсена</title>
+      <link>https://azerisport.com/ru/chess/20260324143130866-Mamedov-popytaetsya-pobedit-v-turnire-s-uchastiem-Karlsena.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/chess/20260324143130866-Mamedov-popytaetsya-pobedit-v-turnire-s-uchastiem-Karlsena.html</guid>
+      <description>25 марта 12:05 Эюбов ответит на вопросы журналистов 11:34 Что ожидать от второго матча Азербайджана с Португалией? 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного 10:47 Историческое золото азербайджанского таэквондо 10:21 Азербайджан против Литвы 10:07 Ламия Велиева: Всю свою силу и настоящую форму я пл...</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
-      <title>Обидчик Карабаха: Нет нужды как-то особенно готовиться к ним. Их имени уже достаточно для мотивации</title>
-      <link>https://azerisport.com/ru/football/20260322140136292-Obidchik-Karabakha-Net-nuzhdy-kak-to-osobenno-gotovitsya-k-nim-Ikh-imeni-uzhe-dostatochno-dlya-motivatsii.html</link>
-      <description>Вчера 14:02 Обидчик Карабаха: Нет нужды как-то особенно готовиться к ним. Их имени уже достаточно для мотивации Вингер «Кяпаза» Фарид Набиев прокомментировал azerisport.com победу в матче 25-го тура Мисли премьер-лиги Азербайджана по футболу над «Карабахом» (1:0).</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260322140136292-Obidchik-Karabakha-Net-nuzhdy-kak-to-osobenno-gotovitsya-k-nim-Ikh-imeni-uzhe-dostatochno-dlya-motivatsii.html</guid>
+      <title>14:04 Американский форвард Гянджи: Мы вписали свое имя в историю, и этого у нас никто не отнимет</title>
+      <link>https://azerisport.com/ru/basketball/20260324140352796-Amerikanskii-forvard-Gyandzhi-My-vpisali-svoe-imya-v-istoriyu-i-etogo-u-nas-nikto-ne-otnimet.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/basketball/20260324140352796-Amerikanskii-forvard-Gyandzhi-My-vpisali-svoe-imya-v-istoriyu-i-etogo-u-nas-nikto-ne-otnimet.html</guid>
+      <description>25 марта 12:05 Эюбов ответит на вопросы журналистов 11:34 Что ожидать от второго матча Азербайджана с Португалией? 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного 10:47 Историческое золото азербайджанского таэквондо 10:21 Азербайджан против Литвы 10:07 Ламия Велиева: Всю свою силу и настоящую форму я пл...</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
-      <title>АФФА объявила об изменении формата турнира ФИФА в Баку</title>
-      <link>https://azerisport.com/ru/football/20260322131747077-AFFA-obyavila-ob-izmenenii-formata-turnira-FIFA-v-Baku.html</link>
-      <description>Вчера 13:17 АФФА объявила об изменении формата турнира ФИФА в Баку Изменен календарь и формат предстоящего турнира Серии ФИФА в Баку.</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260322131747077-AFFA-obyavila-ob-izmenenii-formata-turnira-FIFA-v-Baku.html</guid>
+      <title>13:07 Эмин Искендеров – о великолепном выступлении в Бремене</title>
+      <link>https://azerisport.com/ru/judo/20260324130620266-Emin-Iskenderov-o-velikolepnom-vystuplenii-v-Bremene.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/judo/20260324130620266-Emin-Iskenderov-o-velikolepnom-vystuplenii-v-Bremene.html</guid>
+      <description>25 марта 12:05 Эюбов ответит на вопросы журналистов 11:34 Что ожидать от второго матча Азербайджана с Португалией? 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного 10:47 Историческое золото азербайджанского таэквондо 10:21 Азербайджан против Литвы 10:07 Ламия Велиева: Всю свою силу и настоящую форму я пл...</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
-      <title>18 игроков «милли» вызваны на бакинский сбор</title>
-      <link>https://azerisport.com/ru/football/20260322123428042-18-igrokov-milli-vyzvany-na-bakinskii-sbor.html</link>
-      <description>Вчера 12:35 18 игроков «милли» вызваны на бакинский сбор 23-26 марта сборная Азербайджана по футзалу проведет сбор в Баку.</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260322123428042-18-igrokov-milli-vyzvany-na-bakinskii-sbor.html</guid>
+      <title>12:05 Азербайджанский состав на ЕВРО</title>
+      <link>https://azerisport.com/ru/weightlifting/20260324120425446-Azerbaidzhanskii-sostav-na-EVRO.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/weightlifting/20260324120425446-Azerbaidzhanskii-sostav-na-EVRO.html</guid>
+      <description>25 марта 12:05 Эюбов ответит на вопросы журналистов 11:34 Что ожидать от второго матча Азербайджана с Португалией? 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного 10:47 Историческое золото азербайджанского таэквондо 10:21 Азербайджан против Литвы 10:07 Ламия Велиева: Всю свою силу и настоящую форму я пл...</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
-      <title>Муса Гурбанлы: Пока остаются математические шансы, мы будем биться</title>
-      <link>https://azerisport.com/ru/football/20260322121539340-Musa-Gurbanly-Poka-ostayutsya-matematicheskie-shansy-my-budem-bitsya.html</link>
-      <description>Вчера 12:15 Муса Гурбанлы: Пока остаются математические шансы, мы будем биться Форвард агдамского «Карабаха» Муса Гурбанлы прокомментировал azerisport.com поражение от гянджинского «Кяпаза» (0:1) в матче 25-го тура Мисли премьер-лиги Азербайджана по футболу.</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260322121539340-Musa-Gurbanly-Poka-ostayutsya-matematicheskie-shansy-my-budem-bitsya.html</guid>
-    </item>
-    <item>
-      <title>Евлах стал самым посещаемым в туре</title>
-      <link>https://azerisport.com/ru/football/20260322103328326-Evlakh-stal-samym-poseshcaemym-v-ture.html</link>
-      <description>Вчера 10:45 Евлах стал самым посещаемым в туре Azerisport.com представляет вашему вниманию статистику 25-го тура Мисли премьер-лиги Азербайджана по футболу.</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260322103328326-Evlakh-stal-samym-poseshcaemym-v-ture.html</guid>
-    </item>
-    <item>
-      <title>Польское СМИ – о лидерстве Сабаха: Болельщики Леха рассчитывают на свержение Карабаха</title>
-      <link>https://azerisport.com/ru/football/20260322101108066-Polskoe-SMI-o-liderstve-Sabakha-Bolelshciki-Lekha-rasschityvayut-na-sverzhenie-Karabakha.html</link>
-      <description>Вчера 10:14 Польское СМИ – о лидерстве Сабаха: Болельщики Леха рассчитывают на свержение Карабаха В Польше, говоря о потенциальных соперниках местного «Леха» в квалификации Лиги чемпионов по футболу, в случае его победы в Экстраклассе, отметили и то, как возможное чемпионство «Сабаха» в Мисли премьер-лиге Азербайджа...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260322101108066-Polskoe-SMI-o-liderstve-Sabakha-Bolelshciki-Lekha-rasschityvayut-na-sverzhenie-Karabakha.html</guid>
-    </item>
-    <item>
-      <title>60 минут Кекчю в неудачном матче Волендама</title>
-      <link>https://azerisport.com/ru/football/20260321234748349-60-minut-Kekchyu-v-neudachnom-matche-Volendama.html</link>
-      <description>21 марта 23:47 60 минут Кекчю в неудачном матче Волендама В Нидерландах проходит 28-й тур Эредивизи.</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260321234748349-60-minut-Kekchyu-v-neudachnom-matche-Volendama.html</guid>
-    </item>
-    <item>
-      <title>15:39 Чунаев против «кыргызской акулы»</title>
-      <link>https://azerisport.com/ru/video/20260323153952594-CHunaev-protiv-kyrgyzskoi-akuly.html</link>
-      <description>23 марта 17:03 Аутсайдер одолел Губу, Динамо победило АГ, Ширван и ШС сгоняли ничью 15:39 Чунаев против «кыргызской акулы» 15:08 Гейдаров поднялся в мировом рейтинге, Коцоев сохранил позицию 14:36 Вингер Нефтчи договорился с кипрским клубом 14:03 Тбилисские итоги перед ЕВРО: один плюс, несколько минусов и высокая ко...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/video/20260323153952594-CHunaev-protiv-kyrgyzskoi-akuly.html</guid>
-    </item>
-    <item>
-      <title>15:08 Гейдаров поднялся в мировом рейтинге, Коцоев сохранил позицию</title>
-      <link>https://azerisport.com/ru/judo/20260323150837672-Geidarov-podnyalsya-v-mirovom-reitinge-Kotsoev-sokhranil-pozitsiyu.html</link>
-      <description>23 марта 17:03 Аутсайдер одолел Губу, Динамо победило АГ, Ширван и ШС сгоняли ничью 15:39 Чунаев против «кыргызской акулы» 15:08 Гейдаров поднялся в мировом рейтинге, Коцоев сохранил позицию 14:36 Вингер Нефтчи договорился с кипрским клубом 14:03 Тбилисские итоги перед ЕВРО: один плюс, несколько минусов и высокая ко...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/judo/20260323150837672-Geidarov-podnyalsya-v-mirovom-reitinge-Kotsoev-sokhranil-pozitsiyu.html</guid>
-    </item>
-    <item>
-      <title>14:03 Тбилисские итоги перед ЕВРО: один плюс, несколько минусов и высокая конкуренция</title>
-      <link>https://azerisport.com/ru/judo/20260323140230565-Tbilisskie-itogi-pered-EVRO-odin-plyus-neskolko-minusov-i-vysokaya-konkurentsiya.html</link>
-      <description>23 марта 17:03 Аутсайдер одолел Губу, Динамо победило АГ, Ширван и ШС сгоняли ничью 15:39 Чунаев против «кыргызской акулы» 15:08 Гейдаров поднялся в мировом рейтинге, Коцоев сохранил позицию 14:36 Вингер Нефтчи договорился с кипрским клубом 14:03 Тбилисские итоги перед ЕВРО: один плюс, несколько минусов и высокая ко...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/judo/20260323140230565-Tbilisskie-itogi-pered-EVRO-odin-plyus-neskolko-minusov-i-vysokaya-konkurentsiya.html</guid>
-    </item>
-    <item>
-      <title>12:55 Разные локации сборных Азербайджана</title>
-      <link>https://azerisport.com/ru/wrestling/20260323125506174-Raznye-lokatsii-sbornykh-Azerbaidzhana.html</link>
-      <description>23 марта 17:03 Аутсайдер одолел Губу, Динамо победило АГ, Ширван и ШС сгоняли ничью 15:39 Чунаев против «кыргызской акулы» 15:08 Гейдаров поднялся в мировом рейтинге, Коцоев сохранил позицию 14:36 Вингер Нефтчи договорился с кипрским клубом 14:03 Тбилисские итоги перед ЕВРО: один плюс, несколько минусов и высокая ко...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/wrestling/20260323125506174-Raznye-lokatsii-sbornykh-Azerbaidzhana.html</guid>
-    </item>
-    <item>
-      <title>12:02 Четыре медали боксеров Азербайджана из Венгрии</title>
-      <link>https://azerisport.com/ru/boxing/20260323115340943-CHetyre-medali-bokserov-Azerbaidzhana-iz-Vengrii.html</link>
-      <description>23 марта 17:03 Аутсайдер одолел Губу, Динамо победило АГ, Ширван и ШС сгоняли ничью 15:39 Чунаев против «кыргызской акулы» 15:08 Гейдаров поднялся в мировом рейтинге, Коцоев сохранил позицию 14:36 Вингер Нефтчи договорился с кипрским клубом 14:03 Тбилисские итоги перед ЕВРО: один плюс, несколько минусов и высокая ко...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/boxing/20260323115340943-CHetyre-medali-bokserov-Azerbaidzhana-iz-Vengrii.html</guid>
-    </item>
-    <item>
-      <title>11:39 «Милли», 20 месяцев не знающая побед, против «питонов» и «львиных звезд»</title>
-      <link>https://azerisport.com/ru/video/20260323114242738-Milli-20-mesyatsev-ne-znayushcaya-pobed-protiv-pitonov-i-lvinykh-zvezd.html</link>
-      <description>23 марта 17:03 Аутсайдер одолел Губу, Динамо победило АГ, Ширван и ШС сгоняли ничью 15:39 Чунаев против «кыргызской акулы» 15:08 Гейдаров поднялся в мировом рейтинге, Коцоев сохранил позицию 14:36 Вингер Нефтчи договорился с кипрским клубом 14:03 Тбилисские итоги перед ЕВРО: один плюс, несколько минусов и высокая ко...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/video/20260323114242738-Milli-20-mesyatsev-ne-znayushcaya-pobed-protiv-pitonov-i-lvinykh-zvezd.html</guid>
-    </item>
-    <item>
-      <title>10:15 Наставник сборной Азербайджана оценил успех в Бремене</title>
-      <link>https://azerisport.com/ru/judo/20260323101716105-Nastavnik-sbornoi-Azerbaidzhana-otsenil-uspekh-v-Bremene.html</link>
-      <description>23 марта 17:03 Аутсайдер одолел Губу, Динамо победило АГ, Ширван и ШС сгоняли ничью 15:39 Чунаев против «кыргызской акулы» 15:08 Гейдаров поднялся в мировом рейтинге, Коцоев сохранил позицию 14:36 Вингер Нефтчи договорился с кипрским клубом 14:03 Тбилисские итоги перед ЕВРО: один плюс, несколько минусов и высокая ко...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/judo/20260323101716105-Nastavnik-sbornoi-Azerbaidzhana-otsenil-uspekh-v-Bremene.html</guid>
-    </item>
-    <item>
-      <title>00:14 «Милли» начала подготовку к матчам Серии ФИФА</title>
-      <link>https://azerisport.com/ru/photostory/20260323000617897-Milli-nachala-podgotovku-k-matcham-Serii-FIFA.html</link>
-      <description>23 марта 17:03 Аутсайдер одолел Губу, Динамо победило АГ, Ширван и ШС сгоняли ничью 15:39 Чунаев против «кыргызской акулы» 15:08 Гейдаров поднялся в мировом рейтинге, Коцоев сохранил позицию 14:36 Вингер Нефтчи договорился с кипрским клубом 14:03 Тбилисские итоги перед ЕВРО: один плюс, несколько минусов и высокая ко...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/photostory/20260323000617897-Milli-nachala-podgotovku-k-matcham-Serii-FIFA.html</guid>
-    </item>
-    <item>
-      <title>23:53 Глава СК АФФА поддержал все решения судей</title>
-      <link>https://azerisport.com/ru/video/20260322235335576-Glava-SK-AFFA-podderzhal-vse-resheniya-sudei.html</link>
-      <description>23 марта 17:03 Аутсайдер одолел Губу, Динамо победило АГ, Ширван и ШС сгоняли ничью 15:39 Чунаев против «кыргызской акулы» 15:08 Гейдаров поднялся в мировом рейтинге, Коцоев сохранил позицию 14:36 Вингер Нефтчи договорился с кипрским клубом 14:03 Тбилисские итоги перед ЕВРО: один плюс, несколько минусов и высокая ко...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/video/20260322235335576-Glava-SK-AFFA-podderzhal-vse-resheniya-sudei.html</guid>
-    </item>
-    <item>
-      <title>23:38 Алиев добыл серебро в Испании</title>
-      <link>https://azerisport.com/ru/paralympics/20260322233818158-Aliev-dobyl-serebro-v-Ispanii.html</link>
-      <description>23 марта 17:03 Аутсайдер одолел Губу, Динамо победило АГ, Ширван и ШС сгоняли ничью 15:39 Чунаев против «кыргызской акулы» 15:08 Гейдаров поднялся в мировом рейтинге, Коцоев сохранил позицию 14:36 Вингер Нефтчи договорился с кипрским клубом 14:03 Тбилисские итоги перед ЕВРО: один плюс, несколько минусов и высокая ко...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/paralympics/20260322233818158-Aliev-dobyl-serebro-v-Ispanii.html</guid>
-    </item>
-    <item>
-      <title>23:15 Молодые дзюдоисты Азербайджана тоже покорили Германию</title>
-      <link>https://azerisport.com/ru/judo/20260322231536319-Molodye-dzyudoisty-Azerbaidzhana-tozhe-pokorili-Germaniyu.html</link>
-      <description>23 марта 17:03 Аутсайдер одолел Губу, Динамо победило АГ, Ширван и ШС сгоняли ничью 15:39 Чунаев против «кыргызской акулы» 15:08 Гейдаров поднялся в мировом рейтинге, Коцоев сохранил позицию 14:36 Вингер Нефтчи договорился с кипрским клубом 14:03 Тбилисские итоги перед ЕВРО: один плюс, несколько минусов и высокая ко...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/judo/20260322231536319-Molodye-dzyudoisty-Azerbaidzhana-tozhe-pokorili-Germaniyu.html</guid>
-    </item>
-    <item>
-      <title>19:09 Гамзатханов упустил бронзу в Тбилиси</title>
-      <link>https://azerisport.com/ru/judo/20260322100620272-Gamzatkhanov-upustil-bronzu-v-Tbilisi.html</link>
-      <description>23 марта 17:03 Аутсайдер одолел Губу, Динамо победило АГ, Ширван и ШС сгоняли ничью 15:39 Чунаев против «кыргызской акулы» 15:08 Гейдаров поднялся в мировом рейтинге, Коцоев сохранил позицию 14:36 Вингер Нефтчи договорился с кипрским клубом 14:03 Тбилисские итоги перед ЕВРО: один плюс, несколько минусов и высокая ко...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/judo/20260322100620272-Gamzatkhanov-upustil-bronzu-v-Tbilisi.html</guid>
-    </item>
-    <item>
-      <title>18:56 Хидаят, будет сложно выиграть ЕВРО в пятый раз</title>
-      <link>https://azerisport.com/ru/video/20260322185743446-KHidayat-budet-slozhno-vyigrat-EVRO-v-pyatyi-raz.html</link>
-      <description>23 марта 17:03 Аутсайдер одолел Губу, Динамо победило АГ, Ширван и ШС сгоняли ничью 15:39 Чунаев против «кыргызской акулы» 15:08 Гейдаров поднялся в мировом рейтинге, Коцоев сохранил позицию 14:36 Вингер Нефтчи договорился с кипрским клубом 14:03 Тбилисские итоги перед ЕВРО: один плюс, несколько минусов и высокая ко...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/video/20260322185743446-KHidayat-budet-slozhno-vyigrat-EVRO-v-pyatyi-raz.html</guid>
-    </item>
-    <item>
-      <title>18:07 Азербайджанский состав на Кубок Европы</title>
-      <link>https://azerisport.com/ru/judo/20260322180739775-Azerbaidzhanskii-sostav-na-Kubok-Evropy.html</link>
-      <description>23 марта 17:03 Аутсайдер одолел Губу, Динамо победило АГ, Ширван и ШС сгоняли ничью 15:39 Чунаев против «кыргызской акулы» 15:08 Гейдаров поднялся в мировом рейтинге, Коцоев сохранил позицию 14:36 Вингер Нефтчи договорился с кипрским клубом 14:03 Тбилисские итоги перед ЕВРО: один плюс, несколько минусов и высокая ко...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/judo/20260322180739775-Azerbaidzhanskii-sostav-na-Kubok-Evropy.html</guid>
-    </item>
-    <item>
-      <title>16:45 Плей-офф стартует 27 марта</title>
-      <link>https://azerisport.com/ru/volleyball/20260322164516343-Plei-off-startuet-27-marta.html</link>
-      <description>23 марта 17:03 Аутсайдер одолел Губу, Динамо победило АГ, Ширван и ШС сгоняли ничью 15:39 Чунаев против «кыргызской акулы» 15:08 Гейдаров поднялся в мировом рейтинге, Коцоев сохранил позицию 14:36 Вингер Нефтчи договорился с кипрским клубом 14:03 Тбилисские итоги перед ЕВРО: один плюс, несколько минусов и высокая ко...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/volleyball/20260322164516343-Plei-off-startuet-27-marta.html</guid>
-    </item>
-    <item>
-      <title>15:11 Азербайджанский финал в Германии</title>
-      <link>https://azerisport.com/ru/judo/20260322150746841-Azerbaidzhanskii-final-v-Germanii.html</link>
-      <description>23 марта 17:03 Аутсайдер одолел Губу, Динамо победило АГ, Ширван и ШС сгоняли ничью 15:39 Чунаев против «кыргызской акулы» 15:08 Гейдаров поднялся в мировом рейтинге, Коцоев сохранил позицию 14:36 Вингер Нефтчи договорился с кипрским клубом 14:03 Тбилисские итоги перед ЕВРО: один плюс, несколько минусов и высокая ко...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/judo/20260322150746841-Azerbaidzhanskii-final-v-Germanii.html</guid>
-    </item>
-    <item>
-      <title>14:46 Гейдар МАМЕДАЛИЕВ: Когда встречаются борцы России и Азербайджана, я болею за того, кто хорошо борется</title>
-      <link>https://azerisport.com/ru/wrestling/20260322144651070-Geidar-MAMEDALIEV-Kogda-vstrechayutsya-bortsy-Rossii-i-Azerbaidzhana-ya-boleyu-za-togo-kto-khorosho-boretsya.html</link>
-      <description>23 марта 17:03 Аутсайдер одолел Губу, Динамо победило АГ, Ширван и ШС сгоняли ничью 15:39 Чунаев против «кыргызской акулы» 15:08 Гейдаров поднялся в мировом рейтинге, Коцоев сохранил позицию 14:36 Вингер Нефтчи договорился с кипрским клубом 14:03 Тбилисские итоги перед ЕВРО: один плюс, несколько минусов и высокая ко...</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/wrestling/20260322144651070-Geidar-MAMEDALIEV-Kogda-vstrechayutsya-bortsy-Rossii-i-Azerbaidzhana-ya-boleyu-za-togo-kto-khorosho-boretsya.html</guid>
-    </item>
-    <item>
-      <title>Нефтчи разбушевался в матче с Имишли, Кяпаз ухудшил шансы Карабаха в борьбе за чемпионство</title>
-      <link>https://azerisport.com/ru/football/20260320001746516-Neftchi-razbushevalsya-v-matche-s-Imishli-Kyapaz-ukhudshil-shansy-Karabakha-v-borbe-za-chempionstvo.html</link>
-      <description>#1 ТОП Нефтчи разбушевался в матче с Имишли, Кяпаз ухудшил шансы Карабаха в борьбе за чемпионство Футбол 20 марта 21:05</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260320001746516-Neftchi-razbushevalsya-v-matche-s-Imishli-Kyapaz-ukhudshil-shansy-Karabakha-v-borbe-za-chempionstvo.html</guid>
+      <title>11:23 Изменения в составе Карабаха. Кого можно сохранить в команде?</title>
+      <link>https://azerisport.com/ru/video/20260324111355487-Izmeneniya-v-sostave-Karabakha-Kogo-mozhno-sokhranit-v-komande.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/video/20260324111355487-Izmeneniya-v-sostave-Karabakha-Kogo-mozhno-sokhranit-v-komande.html</guid>
+      <description>25 марта 12:05 Эюбов ответит на вопросы журналистов 11:34 Что ожидать от второго матча Азербайджана с Португалией? 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного 10:47 Историческое золото азербайджанского таэквондо 10:21 Азербайджан против Литвы 10:07 Ламия Велиева: Всю свою силу и настоящую форму я пл...</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
       <title>Курбан Бердыев: Тяжелая игра и тяжелая победа</title>
       <link>https://azerisport.com/ru/football/20260321190716648-Kurban-Berdyev-Tyazhelaya-igra-i-tyazhelaya-pobeda.html</link>
-      <description>#2 ТОП Курбан Бердыев: Тяжелая игра и тяжелая победа Футбол 21 марта 19:13</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260321190716648-Kurban-Berdyev-Tyazhelaya-igra-i-tyazhelaya-pobeda.html</guid>
+      <guid isPermaLink="false">https://azerisport.com/ru/football/20260321190716648-Kurban-Berdyev-Tyazhelaya-igra-i-tyazhelaya-pobeda.html</guid>
+      <description>#1 ТОП Курбан Бердыев: Тяжелая игра и тяжелая победа Футбол 21 марта 19:13</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
-      <title>Сабах легко справился с Сумгайытом, Зире с большим трудом переиграл КЕ</title>
-      <link>https://azerisport.com/ru/football/20260319000718128-Sabakh-legko-spravilsya-s-Sumgaiytom-Zire-s-bolshim-trudom-pereigral-KE.html</link>
-      <description>#3 ТОП Сабах легко справился с Сумгайытом, Зире с большим трудом переиграл КЕ Футбол 19 марта 21:05</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260319000718128-Sabakh-legko-spravilsya-s-Sumgaiytom-Zire-s-bolshim-trudom-pereigral-KE.html</guid>
-    </item>
-    <item>
-      <title>ТТ разобрался с Габалой и продолжает преследовать Карабах</title>
-      <link>https://azerisport.com/ru/football/20260321000654746-TT-razobralsya-s-Gabaloi-i-prodolzhaet-presledovat-Karabakh.html</link>
-      <description>#5 ТОП ТТ разобрался с Габалой и продолжает преследовать Карабах Футбол 21 марта 17:59</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260321000654746-TT-razobralsya-s-Gabaloi-i-prodolzhaet-presledovat-Karabakh.html</guid>
+      <title>Гейдар МАМЕДАЛИЕВ: Когда встречаются борцы России и Азербайджана, я болею за того, кто хорошо борется</title>
+      <link>https://azerisport.com/ru/wrestling/20260322144651070-Geidar-MAMEDALIEV-Kogda-vstrechayutsya-bortsy-Rossii-i-Azerbaidzhana-ya-boleyu-za-togo-kto-khorosho-boretsya.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/wrestling/20260322144651070-Geidar-MAMEDALIEV-Kogda-vstrechayutsya-bortsy-Rossii-i-Azerbaidzhana-ya-boleyu-za-togo-kto-khorosho-boretsya.html</guid>
+      <description>#2 ТОП Гейдар МАМЕДАЛИЕВ: Когда встречаются борцы России и Азербайджана, я болею за того, кто хорошо борется Борьба 22 марта 14:46</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
       <title>Американский дебют Ахундзаде</title>
       <link>https://azerisport.com/ru/football/20260321230905445-Amerikanskii-debyut-Akhundzade.html</link>
-      <description>#6 ТОП Американский дебют Ахундзаде Футбол 21 марта 23:09</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260321230905445-Amerikanskii-debyut-Akhundzade.html</guid>
+      <guid isPermaLink="false">https://azerisport.com/ru/football/20260321230905445-Amerikanskii-debyut-Akhundzade.html</guid>
+      <description>#3 ТОП Американский дебют Ахундзаде Футбол 21 марта 23:09</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>ТТ разобрался с Габалой и продолжает преследовать Карабах</title>
+      <link>https://azerisport.com/ru/football/20260321000654746-TT-razobralsya-s-Gabaloi-i-prodolzhaet-presledovat-Karabakh.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/football/20260321000654746-TT-razobralsya-s-Gabaloi-i-prodolzhaet-presledovat-Karabakh.html</guid>
+      <description>#4 ТОП ТТ разобрался с Габалой и продолжает преследовать Карабах Футбол 21 марта 17:59</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
       <title>Карабах обыграл лидера и помог Нефтчи</title>
       <link>https://azerisport.com/ru/football/20260321111945910-Karabakh-obygral-lidera-i-pomog-Neftchi.html</link>
-      <description>#7 ТОП Карабах обыграл лидера и помог Нефтчи Футбол 21 марта 16:41</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260321111945910-Karabakh-obygral-lidera-i-pomog-Neftchi.html</guid>
-    </item>
-    <item>
-      <title>Гурбан Гурбанов не согласен с решением судьи: Я спросил у Камило, дотронулись ли до его ноги, и он подтвердил</title>
-      <link>https://azerisport.com/ru/football/20260320180758376-Gurban-Gurbanov-ne-soglasen-s-resheniem-sudi-YA-sprosil-u-Kamilo-dotronulis-li-do-ego-nogi-i-on-podtverdil.html</link>
-      <description>#8 ТОП Гурбан Гурбанов не согласен с решением судьи: Я спросил у Камило, дотронулись ли до его ноги, и он подтвердил Футбол 20 марта 18:07</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/football/20260320180758376-Gurban-Gurbanov-ne-soglasen-s-resheniem-sudi-YA-sprosil-u-Kamilo-dotronulis-li-do-ego-nogi-i-on-podtverdil.html</guid>
+      <guid isPermaLink="false">https://azerisport.com/ru/football/20260321111945910-Karabakh-obygral-lidera-i-pomog-Neftchi.html</guid>
+      <description>#5 ТОП Карабах обыграл лидера и помог Нефтчи Футбол 21 марта 16:41</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
       <title>Гейдаров взял бронзу тбилисского Большого шлема</title>
       <link>https://azerisport.com/ru/judo/20260321102233478-Geidarov-vzyal-bronzu-tbilisskogo-Bolshogo-shlema.html</link>
-      <description>#9 ТОП Гейдаров взял бронзу тбилисского Большого шлема Дзюдо 21 марта 17:44</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/judo/20260321102233478-Geidarov-vzyal-bronzu-tbilisskogo-Bolshogo-shlema.html</guid>
+      <guid isPermaLink="false">https://azerisport.com/ru/judo/20260321102233478-Geidarov-vzyal-bronzu-tbilisskogo-Bolshogo-shlema.html</guid>
+      <description>#6 ТОП Гейдаров взял бронзу тбилисского Большого шлема Дзюдо 21 марта 17:44</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
-      <title>Байрамов упустил золото тбилисского Большого шлема</title>
-      <link>https://azerisport.com/ru/judo/20260320101010719-Bairamov-upustil-zoloto-tbilisskogo-Bolshogo-shlema.html</link>
-      <description>#10 ТОП Байрамов упустил золото тбилисского Большого шлема Дзюдо 20 марта 18:46</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/judo/20260320101010719-Bairamov-upustil-zoloto-tbilisskogo-Bolshogo-shlema.html</guid>
+      <title>Нужный ключ против Карабаха, спорная ситуация и изобилие от Нефтчи</title>
+      <link>https://azerisport.com/ru/football/20260321000006216-Nuzhnyi-klyuch-protiv-Karabakha-spornaya-situatsiya-i-izobilie-ot-Neftchi.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/football/20260321000006216-Nuzhnyi-klyuch-protiv-Karabakha-spornaya-situatsiya-i-izobilie-ot-Neftchi.html</guid>
+      <description>#7 ТОП Нужный ключ против Карабаха, спорная ситуация и изобилие от Нефтчи Футбол 21 марта 00:01</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Гамзатханов упустил бронзу в Тбилиси</title>
+      <link>https://azerisport.com/ru/judo/20260322100620272-Gamzatkhanov-upustil-bronzu-v-Tbilisi.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/judo/20260322100620272-Gamzatkhanov-upustil-bronzu-v-Tbilisi.html</guid>
+      <description>#8 ТОП Гамзатханов упустил бронзу в Тбилиси Дзюдо 22 марта 19:09</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Тбилисские итоги перед ЕВРО: один плюс, несколько минусов и высокая конкуренция</title>
+      <link>https://azerisport.com/ru/judo/20260323140230565-Tbilisskie-itogi-pered-EVRO-odin-plyus-neskolko-minusov-i-vysokaya-konkurentsiya.html</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/judo/20260323140230565-Tbilisskie-itogi-pered-EVRO-odin-plyus-neskolko-minusov-i-vysokaya-konkurentsiya.html</guid>
+      <description>#10 ТОП Тбилисские итоги перед ЕВРО: один плюс, несколько минусов и высокая конкуренция Дзюдо 23 марта 14:03</description>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
     <item>
       <title>Redaksiya siyasəti</title>
       <link>https://azerisport.com/ru/about/redaksiya-siyaseti/</link>
+      <guid isPermaLink="false">https://azerisport.com/ru/about/redaksiya-siyaseti/</guid>
       <description>Redaksiya siyasəti О нас Контакты © 2006—2026 «Azerisport.com» Все права защищены. Ссылка на «Azerisport.com» при цитировании материалов обязательна.</description>
-      <pubDate>Mon, 23 Mar 2026 13:25:35 +0000</pubDate>
-      <guid>https://azerisport.com/ru/about/redaksiya-siyaseti/</guid>
+      <pubDate>Wed, 25 Mar 2026 08:25:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
