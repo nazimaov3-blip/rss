@@ -1,475 +1,487 @@
 <?xml version="1.0" ?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss version="2.0">
   <channel>
     <title>Футбол России и мира: онлайн трансляции футбольных матчей, результаты, трансферы, турнирные таблицы, фото, видео - Чемпионат</title>
     <link>https://www.championat.com/football/</link>
     <description>Все новости футбола России и мира: видео, фото, трансферы, турнирные таблицы и онлайн трансляции футбольных матчей. Актуальные новости мирового футбола на сегодняшний день.</description>
     <language>ru-RU</language>
-    <lastBuildDate>Tue, 24 Mar 2026 09:41:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 12:31:37 +0000</lastBuildDate>
     <generator>Multi Source Site to RSS Converter</generator>
-    <docs>https://www.rssboard.org/rss-specification</docs>
-    <ttl>60</ttl>
     <item>
       <title>Футбол</title>
       <link>https://www.championat.com/football/</link>
-      <guid isPermaLink="false">https://www.championat.com/football/</guid>
       <description>Футбол РПЛ Круглосуточный канал Okko Кубок России Сборная России Первая лига Вторая лига Лига чемпионов Лига Европы Лига конференций Англия Испания Италия Франция Германия Лига наций УЕФА ЧМ по футболу 2026 Евро-2024 Кубок Америки Молодёжные сборные Южная Америка Саудовская Аравия MLS / МЛС Клубный ЧМ 2025 Прочие Лю...</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/</guid>
     </item>
     <item>
       <title>Хоккей</title>
       <link>https://www.championat.com/hockey/</link>
-      <guid isPermaLink="false">https://www.championat.com/hockey/</guid>
       <description>Хоккей КХЛ НХЛ Олимпиада 2026 Евротур ЧМ по хоккею 2025 МЧМ по хоккею 2026 Сид и Ови: 20 лет ВХЛ МХЛ Чемпионат КХЛ 3х3 Лига чемпионов Прочие турниры</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/hockey/</guid>
     </item>
     <item>
       <title>Теннис</title>
       <link>https://www.championat.com/tennis/</link>
-      <guid isPermaLink="false">https://www.championat.com/tennis/</guid>
       <description>Теннис ATP WTA Большой шлем Олимпиада Кубок Дэвиса Кубок Билли Джин Кинг Рейтинг «Чемпионата» Рейтинг 52 недель ATP Чемпионская гонка ATP Рейтинг 52 недель WTA Чемпионская гонка WTA Легенды Кубка Кремля</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/tennis/</guid>
     </item>
     <item>
       <title>Бокс/ММА</title>
       <link>https://www.championat.com/boxing/</link>
-      <guid isPermaLink="false">https://www.championat.com/boxing/</guid>
       <description>Бокс/ММА UFC Профессиональный бокс PFL/Brave/Прочие бои Любительский бокс Российские ММА Bellator Поп-ММА Реслинг Самбо</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/boxing/</guid>
     </item>
     <item>
       <title>Баскетбол</title>
       <link>https://www.championat.com/basketball/</link>
-      <guid isPermaLink="false">https://www.championat.com/basketball/</guid>
       <description>Баскетбол Единая лига НБА Евролига Еврокубок Чемпионат мира Евробаскет Прочие турниры</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/basketball/</guid>
     </item>
     <item>
       <title>Авто</title>
       <link>https://www.championat.com/auto/</link>
-      <guid isPermaLink="false">https://www.championat.com/auto/</guid>
       <description>Авто Формула-1 Формула-2 / Младшие серии Мотогонки Ралли Формула-Е/Америка/Прочее RDS/Дрифт Дакар/Ралли-рейды Суперкары</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/auto/</guid>
     </item>
     <item>
       <title>Биатлон</title>
       <link>https://www.championat.com/biathlon/</link>
-      <guid isPermaLink="false">https://www.championat.com/biathlon/</guid>
       <description>Биатлон Кубок мира Кубок России Кубок Содружества Чемпионат России Чемпионат мира Прочие турниры</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/biathlon/</guid>
     </item>
     <item>
       <title>Лыжи</title>
       <link>https://www.championat.com/skiing/</link>
-      <guid isPermaLink="false">https://www.championat.com/skiing/</guid>
       <description>Лыжи Кубок мира Кубок России Чемпионат России Чемпионат мира Ски-альпинизм Горнолыжный спорт Сноуборд и фристайл Прыжки с трамплина Прочие турниры</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/skiing/</guid>
     </item>
     <item>
       <title>Фигурное катание</title>
       <link>https://www.championat.com/figureskating/</link>
-      <guid isPermaLink="false">https://www.championat.com/figureskating/</guid>
       <description>Фигурное катание Олимпийский турнир Чемпионат России Гран-при России Гран-при ISU Чемпионат мира Чемпионат Европы Ледовые шоу</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/figureskating/</guid>
     </item>
     <item>
       <title>Волейбол</title>
       <link>https://www.championat.com/volleyball/</link>
-      <guid isPermaLink="false">https://www.championat.com/volleyball/</guid>
       <description>Волейбол Суперлига, мужчины Суперлига, женщины Чемпионат мира — 2025 Лига чемпионов Сборная России Пляжный волейбол</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/volleyball/</guid>
     </item>
     <item>
       <title>Lifestyle</title>
       <link>https://www.championat.com/lifestyle/</link>
-      <guid isPermaLink="false">https://www.championat.com/lifestyle/</guid>
       <description>Lifestyle Полезные знания Бег Любительский спорт Тренировки Здоровье Питание Тренды Мотивация Активный отдых Гайды - всё о спортивном образе жизни</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/lifestyle/</guid>
     </item>
     <item>
       <title>Чемп.Play</title>
       <link>https://www.championat.com/cybersport/</link>
-      <guid isPermaLink="false">https://www.championat.com/cybersport/</guid>
       <description>Чемп.Play Кино и сериалы Игры Лучшие киберклубы России Киберспорт Железо и гаджеты Dota 2 Counter-Strike 2</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/cybersport/</guid>
     </item>
     <item>
       <title>Ставки</title>
       <link>https://www.championat.com/bets/</link>
-      <guid isPermaLink="false">https://www.championat.com/bets/</guid>
       <description>Ставки Прогнозы Рейтинг букмекеров База знаний</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/bets/</guid>
     </item>
     <item>
       <title>Другие</title>
       <link>https://www.championat.com/other/</link>
-      <guid isPermaLink="false">https://www.championat.com/other/</guid>
       <description>Другие Футзал Шахматы Лёгкая атлетика Водные виды Борьба Гимнастика Регби Велоспорт Пляжный футбол Снукер Падел Гандбол Хоккей с мячом Прочие виды спорта</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/other/</guid>
     </item>
     <item>
       <title>Олимпиада 2026</title>
       <link>https://www.championat.com/olympicwinter/</link>
-      <guid isPermaLink="false">https://www.championat.com/olympicwinter/</guid>
       <description>Олимпиада 2026 Календарь ОИ-2026 Медальный зачёт Новости Россия на ОИ-2026 Биатлон Бобслей Горнолыжный спорт Кёрлинг Конькобежный спорт Лыжные гонки Лыжное двоеборье Прыжки на лыжах с трамплина Санный спорт Ски-альпинизм Скелетон Сноуборд Фигурное катание Фристайл Хоккей с шайбой Шорт-трек Олимпизм</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/olympicwinter/</guid>
     </item>
     <item>
       <title>Паралимпиада 2026</title>
       <link>https://www.championat.com/paralympic/</link>
-      <guid isPermaLink="false">https://www.championat.com/paralympic/</guid>
       <description>Паралимпиада 2026 Медальный зачёт Новости Наши в Милане Биатлон и лыжные гонки Горнолыжный спорт Следж-хоккей Керлинг на колясках Пара-сноуборд Паралимпизм</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/paralympic/</guid>
     </item>
     <item>
       <title>Мобильное приложение «Чемпионата». Для тех, кто любит спорт</title>
       <link>https://www.championat.com/page/app/</link>
-      <guid isPermaLink="false">https://www.championat.com/page/app/</guid>
       <description>Мобильное приложение «Чемпионата». Для тех, кто любит спорт Матч-центр Новости Эфир Топ-матчи Видео Рейтинг букмекеров Теперь вы знаете Полная версия сайта</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/page/app/</guid>
     </item>
     <item>
       <title>Матч-центр</title>
       <link>https://www.championat.com/stat/?utm_source=button&amp;utm_medium=match</link>
-      <guid isPermaLink="false">https://www.championat.com/stat/?utm_source=button&amp;utm_medium=match</guid>
       <description>Матч-центр</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/stat/?utm_source=button&amp;utm_medium=match</guid>
     </item>
     <item>
       <title>Новости</title>
       <link>https://www.championat.com/news/1.html?utm_source=button&amp;utm_medium=news</link>
-      <guid isPermaLink="false">https://www.championat.com/news/1.html?utm_source=button&amp;utm_medium=news</guid>
       <description>Новости</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/news/1.html?utm_source=button&amp;utm_medium=news</guid>
     </item>
     <item>
       <title>Эфир</title>
       <link>https://www.championat.com/page/okkosport/</link>
-      <guid isPermaLink="false">https://www.championat.com/page/okkosport/</guid>
       <description>Эфир</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/page/okkosport/</guid>
     </item>
     <item>
       <title>Топ-матчи</title>
-      <link>https://www.championat.com/hockey/article-6404614-raspisanie-sportivnyh-matchej-24-marta-2026-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html</link>
-      <guid isPermaLink="false">https://www.championat.com/hockey/article-6404614-raspisanie-sportivnyh-matchej-24-marta-2026-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html</guid>
+      <link>https://www.championat.com/hockey/article-6403116-raspisanie-sportivnyh-matchej-23-marta-2026-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html</link>
       <description>Топ-матчи</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/hockey/article-6403116-raspisanie-sportivnyh-matchej-23-marta-2026-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html</guid>
     </item>
     <item>
       <title>Видео</title>
       <link>https://www.championat.com/video/?utm_source=button&amp;utm_medium=video</link>
-      <guid isPermaLink="false">https://www.championat.com/video/?utm_source=button&amp;utm_medium=video</guid>
       <description>Видео</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/video/?utm_source=button&amp;utm_medium=video</guid>
     </item>
     <item>
       <title>Рейтинг букмекеров</title>
       <link>https://bet.championat.com</link>
-      <guid isPermaLink="false">https://bet.championat.com</guid>
       <description>Рейтинг букмекеров</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://bet.championat.com</guid>
     </item>
     <item>
       <title>Теперь вы знаете</title>
       <link>https://www.championat.com/twz/</link>
-      <guid isPermaLink="false">https://www.championat.com/twz/</guid>
       <description>Теперь вы знаете</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/twz/</guid>
     </item>
     <item>
-      <title>Гурцкая — о поведении Кордобы в последних матчах: это правильная работа тренера</title>
-      <link>https://www.championat.com/football/news-6405488-gurckaya-o-povedenii-kordoby-v-poslednih-matchah-eto-pravilnaya-rabota-trenera.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405488-gurckaya-o-povedenii-kordoby-v-poslednih-matchah-eto-pravilnaya-rabota-trenera.html</guid>
-      <description>12:30 Гурцкая — о поведении Кордобы в последних матчах: это правильная работа тренера</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>Стала известна зарплата Гризманна в случае перехода в «Орландо Сити» — Хокинс</title>
+      <link>https://www.championat.com/football/news-6404426-stala-izvestna-zarplata-grizmanna-v-sluchae-perehoda-v-orlando-siti-hokins.html</link>
+      <description>15:27 Стала известна зарплата Гризманна в случае перехода в «Орландо Сити» — Хокинс</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404426-stala-izvestna-zarplata-grizmanna-v-sluchae-perehoda-v-orlando-siti-hokins.html</guid>
     </item>
     <item>
-      <title>Червиченко: как «Сочи» попал в РПЛ непонятными путями, так и вылетает</title>
-      <link>https://www.championat.com/football/news-6405490-chervichenko-kak-sochi-popal-v-rpl-neponyatnymi-putyami-tak-i-vyletaet.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405490-chervichenko-kak-sochi-popal-v-rpl-neponyatnymi-putyami-tak-i-vyletaet.html</guid>
-      <description>12:25 Червиченко: как «Сочи» попал в РПЛ непонятными путями, так и вылетает</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>Дмитрий Булыкин оценил чемпионские перспективы «Локомотива» в РПЛ</title>
+      <link>https://www.championat.com/football/news-6404386-dmitrij-bulykin-ocenil-chempionskie-perspektivy-lokomotiva-v-rpl.html</link>
+      <description>15:15 Дмитрий Булыкин оценил чемпионские перспективы «Локомотива» в РПЛ</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404386-dmitrij-bulykin-ocenil-chempionskie-perspektivy-lokomotiva-v-rpl.html</guid>
     </item>
     <item>
-      <title>Гильермо Абаскаль уволен с поста главного тренера мексиканского «Атлетико Сан Луис»</title>
-      <link>https://www.championat.com/football/news-6405468-gilermo-abaskal-uvolen-s-posta-glavnogo-trenera-meksikanskogo-atletiko-san-luis.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405468-gilermo-abaskal-uvolen-s-posta-glavnogo-trenera-meksikanskogo-atletiko-san-luis.html</guid>
-      <description>12:12 Гильермо Абаскаль уволен с поста главного тренера мексиканского «Атлетико Сан Луис» Официально</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>Гвардиола назвал три лучших футбольных клуба в Европе, не упомянув «Манчестер Сити»</title>
+      <link>https://www.championat.com/football/news-6404406-gvardiola-nazval-tri-luchshih-futbolnyh-kluba-v-evrope-ne-upomyanuv-manchester-siti.html</link>
+      <description>15:13 Гвардиола назвал три лучших футбольных клуба в Европе, не упомянув «Манчестер Сити»</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404406-gvardiola-nazval-tri-luchshih-futbolnyh-kluba-v-evrope-ne-upomyanuv-manchester-siti.html</guid>
     </item>
     <item>
-      <title>Игрок «Спартака» Умяров: сейчас единственный путь — набирать как можно больше очков</title>
-      <link>https://www.championat.com/football/news-6405452-igrok-spartaka-umyarov-sejchas-edinstvennyj-put-nabirat-kak-mozhno-bolshe-ochkov.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405452-igrok-spartaka-umyarov-sejchas-edinstvennyj-put-nabirat-kak-mozhno-bolshe-ochkov.html</guid>
-      <description>11:50 Игрок «Спартака» Умяров: сейчас единственный путь — набирать как можно больше очков</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>Сантос: люди привыкли к лидерству «Зенита» — мы возвращаемся к тому, какой командой были</title>
+      <link>https://www.championat.com/football/news-6404392-santos-lyudi-privykli-k-liderstvu-zenita-my-vozvraschaemsya-k-tomu-kakoj-komandoj-byli.html</link>
+      <description>15:00 Сантос: люди привыкли к лидерству «Зенита» — мы возвращаемся к тому, какой командой были Эксклюзив</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404392-santos-lyudi-privykli-k-liderstvu-zenita-my-vozvraschaemsya-k-tomu-kakoj-komandoj-byli.html</guid>
     </item>
     <item>
-      <title>«Решение принято вместе». Алексей Батраков покидает сборную России</title>
-      <link>https://www.championat.com/football/news-6405448-reshenie-prinyato-vmeste-aleksej-batrakov-pokidaet-sbornuyu-rossii.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405448-reshenie-prinyato-vmeste-aleksej-batrakov-pokidaet-sbornuyu-rossii.html</guid>
-      <description>11:35 «Решение принято вместе». Алексей Батраков покидает сборную России</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>«Можно было подумать, что играет «Барселона». Булыкин — о победе «Локо» над «Акроном»</title>
+      <link>https://www.championat.com/football/news-6404372-mozhno-bylo-podumat-chto-igraet-barselona-bulykin-o-pobede-loko-nad-akronom.html</link>
+      <description>14:45 «Можно было подумать, что играет «Барселона». Булыкин — о победе «Локо» над «Акроном»</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404372-mozhno-bylo-podumat-chto-igraet-barselona-bulykin-o-pobede-loko-nad-akronom.html</guid>
     </item>
     <item>
-      <title>Аршавин: «Краснодар» поймал чемпионский кураж</title>
-      <link>https://www.championat.com/football/news-6405440-arshavin-krasnodar-pojmal-chempionskij-kurazh.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405440-arshavin-krasnodar-pojmal-chempionskij-kurazh.html</guid>
-      <description>11:34 Аршавин: «Краснодар» поймал чемпионский кураж</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>Виталий Петров забил победный буллит в матче медиафутбольного турнира «На Пике»</title>
+      <link>https://www.championat.com/auto/news-6404346-vitalij-petrov-zabil-pobednyj-bullit-v-matche-mediafutbolnogo-turnira-na-pike.html</link>
+      <description>14:44 Виталий Петров забил победный буллит в матче медиафутбольного турнира «На Пике» Видео</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/auto/news-6404346-vitalij-petrov-zabil-pobednyj-bullit-v-matche-mediafutbolnogo-turnira-na-pike.html</guid>
     </item>
     <item>
-      <title>Геннадий Орлов выставил оценку «Зениту» за матч с «Динамо» в 22-м туре РПЛ</title>
-      <link>https://www.championat.com/football/news-6405446-gennadij-orlov-vystavil-ocenku-zenitu-za-match-s-dinamo-v-22-m-ture-rpl.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405446-gennadij-orlov-vystavil-ocenku-zenitu-za-match-s-dinamo-v-22-m-ture-rpl.html</guid>
-      <description>11:30 Геннадий Орлов выставил оценку «Зениту» за матч с «Динамо» в 22-м туре РПЛ</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>Райс прокомментировал поражение «Арсенала» в финале Кубка лиги от «Манчестер Сити»</title>
+      <link>https://www.championat.com/football/news-6404246-rajs-prokommentiroval-porazhenie-arsenala-v-finale-kubka-ligi-ot-manchester-siti.html</link>
+      <description>14:35 Райс прокомментировал поражение «Арсенала» в финале Кубка лиги от «Манчестер Сити»</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404246-rajs-prokommentiroval-porazhenie-arsenala-v-finale-kubka-ligi-ot-manchester-siti.html</guid>
     </item>
     <item>
-      <title>Аршавин объяснил, почему Джон Дуран не проявляет себя ярко в «Зените»</title>
-      <link>https://www.championat.com/football/news-6405438-arshavin-obyasnil-pochemu-dzhon-duran-ne-proyavlyaet-sebya-yarko-v-zenite.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405438-arshavin-obyasnil-pochemu-dzhon-duran-ne-proyavlyaet-sebya-yarko-v-zenite.html</guid>
-      <description>11:25 Аршавин объяснил, почему Джон Дуран не проявляет себя ярко в «Зените»</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>«Атлетико» проигнорировал голы Винисиуса в дерби с «Реалом» в своём официальном аккаунте</title>
+      <link>https://www.championat.com/football/news-6404366-atletiko-proignoriroval-goly-vinisiusa-v-derbi-s-realom-v-svoyom-oficialnom-akkaunte.html</link>
+      <description>14:34 «Атлетико» проигнорировал голы Винисиуса в дерби с «Реалом» в своём официальном аккаунте Фото</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404366-atletiko-proignoriroval-goly-vinisiusa-v-derbi-s-realom-v-svoyom-oficialnom-akkaunte.html</guid>
     </item>
     <item>
-      <title>ЭСК РФС рассмотрит два эпизода по итогам матча РПЛ «Балтика» — «Сочи»</title>
-      <link>https://www.championat.com/football/news-6405434-esk-rfs-rassmotrit-dva-epizoda-po-itogam-matcha-rpl-baltika-sochi.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405434-esk-rfs-rassmotrit-dva-epizoda-po-itogam-matcha-rpl-baltika-sochi.html</guid>
-      <description>11:21 ЭСК РФС рассмотрит два эпизода по итогам матча РПЛ «Балтика» — «Сочи»</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>В «Динамо» прокомментировали восстановление Луиса Чавеса после травмы</title>
+      <link>https://www.championat.com/football/news-6404324-v-dinamo-prokommentirovali-vosstanovlenie-luisa-chavesa-posle-travmy.html</link>
+      <description>14:20 В «Динамо» прокомментировали восстановление Луиса Чавеса после травмы</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404324-v-dinamo-prokommentirovali-vosstanovlenie-luisa-chavesa-posle-travmy.html</guid>
     </item>
     <item>
-      <title>«Динамо» обратилось в ЭСК по итогам матча со «Спартаком» в Кубке России</title>
-      <link>https://www.championat.com/football/news-6405422-dinamo-obratilos-v-esk-po-itogam-matcha-so-spartakom-v-kubke-rossii.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405422-dinamo-obratilos-v-esk-po-itogam-matcha-so-spartakom-v-kubke-rossii.html</guid>
-      <description>11:11 «Динамо» обратилось в ЭСК по итогам матча со «Спартаком» в Кубке России</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>«Балтика» получила трофей за победу в импровизированном БЕТСИТИ Кубке Морского боя</title>
+      <link>https://www.championat.com/football/news-6404248-baltika-poluchila-trofej-za-pobedu-v-improvizirovannom-betsiti-kubke-morskogo-boya.html</link>
+      <description>13:59 «Балтика» получила трофей за победу в импровизированном БЕТСИТИ Кубке Морского боя</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404248-baltika-poluchila-trofej-za-pobedu-v-improvizirovannom-betsiti-kubke-morskogo-boya.html</guid>
     </item>
     <item>
-      <title>«Оренбург» обратился в ЭСК по двум неназначенным пенальти в матче со «Спартаком»</title>
-      <link>https://www.championat.com/football/news-6405424-orenburg-obratilsya-v-esk-po-dvum-nenaznachennym-penalti-v-matche-so-spartakom.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405424-orenburg-obratilsya-v-esk-po-dvum-nenaznachennym-penalti-v-matche-so-spartakom.html</guid>
-      <description>11:04 «Оренбург» обратился в ЭСК по двум неназначенным пенальти в матче со «Спартаком»</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>«Барселона» стала первой командой, обеспечившей себе место в ЛЧ на следующий сезон</title>
+      <link>https://www.championat.com/football/news-6404278-barselona-stala-pervoj-komandoj-obespechivshej-sebe-mesto-v-lch-na-sleduyuschij-sezon.html</link>
+      <description>13:47 «Барселона» стала первой командой, обеспечившей себе место в ЛЧ на следующий сезон</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404278-barselona-stala-pervoj-komandoj-obespechivshej-sebe-mesto-v-lch-na-sleduyuschij-sezon.html</guid>
     </item>
     <item>
-      <title>41-летний Вагнер Лав объявил о завершении карьеры</title>
-      <link>https://www.championat.com/football/news-6405388-41-letnij-vagner-lav-obyavil-o-zavershenii-karery.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405388-41-letnij-vagner-lav-obyavil-o-zavershenii-karery.html</guid>
-      <description>10:25 41-летний Вагнер Лав объявил о завершении карьеры Официально</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>Александр Мостовой посвятил четверостишие Овечкину, забившему 1000-й гол в НХЛ</title>
+      <link>https://www.championat.com/football/news-6404292-aleksandr-mostovoj-posvyatil-chetverostishie-ovechkinu-zabivshemu-1000-j-gol-v-nhl.html</link>
+      <description>13:44 Александр Мостовой посвятил четверостишие Овечкину, забившему 1000-й гол в НХЛ</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404292-aleksandr-mostovoj-posvyatil-chetverostishie-ovechkinu-zabivshemu-1000-j-gol-v-nhl.html</guid>
     </item>
     <item>
-      <title>Умяров отреагировал на решение ЭСК, что Соболева стоило удалить в игре «Зенит» — «Спартак»</title>
-      <link>https://www.championat.com/football/news-6405382-umyarov-otreagiroval-na-reshenie-esk-chto-soboleva-stoilo-udalit-v-igre-zenit-spartak.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405382-umyarov-otreagiroval-na-reshenie-esk-chto-soboleva-stoilo-udalit-v-igre-zenit-spartak.html</guid>
-      <description>10:20 Умяров отреагировал на решение ЭСК, что Соболева стоило удалить в игре «Зенит» — «Спартак»</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>«Локомотив» и Митрюшкин договорились о новом контракте, раскрыта зарплата</title>
+      <link>https://www.championat.com/football/news-6404270-lokomotiv-i-mitryushkin-dogovorilis-o-novom-kontrakte-raskryta-zarplata.html</link>
+      <description>13:34 «Локомотив» и Митрюшкин договорились о новом контракте, раскрыта зарплата</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404270-lokomotiv-i-mitryushkin-dogovorilis-o-novom-kontrakte-raskryta-zarplata.html</guid>
     </item>
     <item>
-      <title>Аршавин ответил, находится ли «Локомотив» в чемпионской гонке РПЛ</title>
-      <link>https://www.championat.com/football/news-6405350-arshavin-otvetil-nahoditsya-li-lokomotiv-v-chempionskoj-gonke-rpl.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405350-arshavin-otvetil-nahoditsya-li-lokomotiv-v-chempionskoj-gonke-rpl.html</guid>
-      <description>09:47 Аршавин ответил, находится ли «Локомотив» в чемпионской гонке РПЛ</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>Гендиректор «Спартака» Некрасов: Карседо пишет свою историю</title>
+      <link>https://www.championat.com/football/news-6404220-gendirektor-spartaka-nekrasov-karsedo-pishet-svoyu-istoriyu.html</link>
+      <description>12:43 Гендиректор «Спартака» Некрасов: Карседо пишет свою историю Эксклюзив</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404220-gendirektor-spartaka-nekrasov-karsedo-pishet-svoyu-istoriyu.html</guid>
     </item>
     <item>
-      <title>«Минимум сенсаций». Андрей Аршавин — о 22-м туре РПЛ</title>
-      <link>https://www.championat.com/football/news-6405298-minimum-sensacij-andrej-arshavin-o-22-m-ture-rpl.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405298-minimum-sensacij-andrej-arshavin-o-22-m-ture-rpl.html</guid>
-      <description>09:23 «Минимум сенсаций». Андрей Аршавин — о 22-м туре РПЛ</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>Ливай Гарсия — один из лидеров РПЛ по важному статистическому показателю</title>
+      <link>https://www.championat.com/football/news-6404206-livaj-garsiya-odin-iz-liderov-rpl-po-vazhnomu-statisticheskomu-pokazatelyu.html</link>
+      <description>12:35 Ливай Гарсия — один из лидеров РПЛ по важному статистическому показателю</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404206-livaj-garsiya-odin-iz-liderov-rpl-po-vazhnomu-statisticheskomu-pokazatelyu.html</guid>
     </item>
     <item>
-      <title>Слишкович рассказал, какие клубы видит чемпионом и бронзовым призёром РПЛ</title>
-      <link>https://www.championat.com/football/news-6405286-slishkovich-rasskazal-kakie-kluby-vidit-chempionom-i-bronzovym-prizyorom-rpl.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405286-slishkovich-rasskazal-kakie-kluby-vidit-chempionom-i-bronzovym-prizyorom-rpl.html</guid>
-      <description>09:14 Слишкович рассказал, какие клубы видит чемпионом и бронзовым призёром РПЛ</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>«Всё ещё не договорились о новом контракте». Карпукас допустил, что покинет «Локомотив»</title>
+      <link>https://www.championat.com/football/news-6404180-vsyo-eschyo-ne-dogovorilis-o-novom-kontrakte-karpukas-dopustil-chto-pokinet-lokomotiv.html</link>
+      <description>12:03 «Всё ещё не договорились о новом контракте». Карпукас допустил, что покинет «Локомотив»</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404180-vsyo-eschyo-ne-dogovorilis-o-novom-kontrakte-karpukas-dopustil-chto-pokinet-lokomotiv.html</guid>
     </item>
     <item>
-      <title>Владимир Слишкович: победа «Спартака» над «Оренбургом» — стопроцентно тренерская</title>
-      <link>https://www.championat.com/football/news-6405262-vladimir-slishkovich-pobeda-spartaka-nad-orenburgom-stoprocentno-trenerskaya.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405262-vladimir-slishkovich-pobeda-spartaka-nad-orenburgom-stoprocentno-trenerskaya.html</guid>
-      <description>08:56 Владимир Слишкович: победа «Спартака» над «Оренбургом» — стопроцентно тренерская</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>Мамаев прокомментировал невызов Соболева в сборную России на матчи с Мали и Никарагуа</title>
+      <link>https://www.championat.com/football/news-6404128-mamaev-prokommentiroval-nevyzov-soboleva-v-sbornuyu-rossii-na-matchi-s-mali-i-nikaragua.html</link>
+      <description>10:54 Мамаев прокомментировал невызов Соболева в сборную России на матчи с Мали и Никарагуа</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404128-mamaev-prokommentiroval-nevyzov-soboleva-v-sbornuyu-rossii-na-matchi-s-mali-i-nikaragua.html</guid>
     </item>
     <item>
-      <title>Аршавин ответил, какие команды покинут РПЛ по итогам этого сезона</title>
-      <link>https://www.championat.com/football/news-6405356-arshavin-otvetil-kakie-komandy-pokinut-rpl-po-itogam-etogo-sezona.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405356-arshavin-otvetil-kakie-komandy-pokinut-rpl-po-itogam-etogo-sezona.html</guid>
-      <description>10:03 Аршавин ответил, какие команды покинут РПЛ по итогам этого сезона</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>«Спартак» может приобрести защитника «Бешикташа» — Ajansspor</title>
+      <link>https://www.championat.com/football/news-6404118-spartak-mozhet-priobresti-zaschitnika-beshiktasha-ajansspor.html</link>
+      <description>10:51 «Спартак» может приобрести защитника «Бешикташа» — Ajansspor</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404118-spartak-mozhet-priobresti-zaschitnika-beshiktasha-ajansspor.html</guid>
+    </item>
+    <item>
+      <title>17:30 Челябинск – Торпедо М Не начался</title>
+      <link>https://www.championat.com/football/_russia1d/tournament/6648/match/1304446/</link>
+      <description>17:30 Челябинск – Торпедо М Не начался</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/_russia1d/tournament/6648/match/1304446/</guid>
+    </item>
+    <item>
+      <title>19:00 Родина – Чайка Не начался</title>
+      <link>https://www.championat.com/football/_russia1d/tournament/6648/match/1304448/</link>
+      <description>19:00 Родина – Чайка Не начался</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/_russia1d/tournament/6648/match/1304448/</guid>
     </item>
     <item>
       <title>Новости. Футбол</title>
       <link>https://www.championat.com/news/football/1.html</link>
-      <guid isPermaLink="false">https://www.championat.com/news/football/1.html</guid>
-      <description>Новости. Футбол 24 марта 2026 12:30 Гурцкая — о поведении Кордобы в последних матчах: это правильная работа тренера 12:25 Червиченко: как «Сочи» попал в РПЛ непонятными путями, так и вылетает 12:12 Гильермо Абаскаль уволен с поста главного тренера мексиканского «Атлетико Сан Луис» Официально 11:50 Игрок «Спартака» У...</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <description>Новости. Футбол 23 марта 2026 15:27 Стала известна зарплата Гризманна в случае перехода в «Орландо Сити» — Хокинс 15:15 Дмитрий Булыкин оценил чемпионские перспективы «Локомотива» в РПЛ 15:13 Гвардиола назвал три лучших футбольных клуба в Европе, не упомянув «Манчестер Сити» 15:00 Сантос: люди привыкли к лидерству «...</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/news/football/1.html</guid>
     </item>
     <item>
-      <title>Червиченко: за те деньги, которые заплатили за Соболева, забивать надо было раньше</title>
-      <link>https://www.championat.com/football/news-6405420-chervichenko-za-te-dengi-kotorye-zaplatili-za-soboleva-zabivat-nado-bylo-ranshe.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405420-chervichenko-za-te-dengi-kotorye-zaplatili-za-soboleva-zabivat-nado-bylo-ranshe.html</guid>
-      <description>11:01 Червиченко: за те деньги, которые заплатили за Соболева, забивать надо было раньше</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>Орлов высказался об игре Джона Джона и Джона Дурана за «Зенит»</title>
+      <link>https://www.championat.com/football/news-6404256-orlov-vyskazalsya-ob-igre-dzhona-dzhona-i-dzhona-durana-za-zenit.html</link>
+      <description>13:22 Орлов высказался об игре Джона Джона и Джона Дурана за «Зенит»</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404256-orlov-vyskazalsya-ob-igre-dzhona-dzhona-i-dzhona-durana-za-zenit.html</guid>
     </item>
     <item>
-      <title>Аршавин — о «Динамо»: Гусеву перед своими руководителями нужно проявить состоятельность</title>
-      <link>https://www.championat.com/football/news-6405394-arshavin-o-dinamo-gusevu-pered-svoimi-rukovoditelyami-nuzhno-proyavit-sostoyatelnost.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405394-arshavin-o-dinamo-gusevu-pered-svoimi-rukovoditelyami-nuzhno-proyavit-sostoyatelnost.html</guid>
-      <description>10:50 Аршавин — о «Динамо»: Гусеву перед своими руководителями нужно проявить состоятельность</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>«Коринтианс» сделал предупреждение Мемфису Депаю за разговор по телефону — RMC Sport</title>
+      <link>https://www.championat.com/football/news-6404258-korintians-sdelal-preduprezhdenie-memfisu-depayu-za-razgovor-po-telefonu-rmc-sport.html</link>
+      <description>13:17 «Коринтианс» сделал предупреждение Мемфису Депаю за разговор по телефону — RMC Sport</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404258-korintians-sdelal-preduprezhdenie-memfisu-depayu-za-razgovor-po-telefonu-rmc-sport.html</guid>
     </item>
     <item>
-      <title>Червиченко: после поражения от «Зенита» вопрос — конец ли сказки для «Динамо»?</title>
-      <link>https://www.championat.com/football/news-6405402-chervichenko-posle-porazheniya-ot-zenita-vopros-konec-li-skazki-dlya-dinamo.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405402-chervichenko-posle-porazheniya-ot-zenita-vopros-konec-li-skazki-dlya-dinamo.html</guid>
-      <description>10:45 Червиченко: после поражения от «Зенита» вопрос — конец ли сказки для «Динамо»?</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>Александр Максименко встретился с братом-спортсменом, выступающим в Оренбурге, после матча</title>
+      <link>https://www.championat.com/football/news-6404230-aleksandr-maksimenko-vstretilsya-s-bratom-sportsmenom-vystupayuschim-v-orenburge-posle-matcha.html</link>
+      <description>12:56 Александр Максименко встретился с братом-спортсменом, выступающим в Оренбурге, после матча Фото</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404230-aleksandr-maksimenko-vstretilsya-s-bratom-sportsmenom-vystupayuschim-v-orenburge-posle-matcha.html</guid>
     </item>
     <item>
-      <title>Экс-защитник «Спартака» Митрески: в еврокубках клубы РПЛ могли бы конкурировать со многими</title>
-      <link>https://www.championat.com/football/news-6405384-eks-zaschitnik-spartaka-mitreski-v-evrokubkah-kluby-rpl-mogli-by-konkurirovat-so-mnogimi.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405384-eks-zaschitnik-spartaka-mitreski-v-evrokubkah-kluby-rpl-mogli-by-konkurirovat-so-mnogimi.html</guid>
-      <description>10:27 Экс-защитник «Спартака» Митрески: в еврокубках клубы РПЛ могли бы конкурировать со многими</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>Бубнов назвал максимально возможное место ЦСКА по итогам нынешнего сезона в РПЛ</title>
+      <link>https://www.championat.com/football/news-6404214-bubnov-nazval-maksimalno-vozmozhnoe-mesto-cska-po-itogam-nyneshnego-sezona-v-rpl.html</link>
+      <description>12:38 Бубнов назвал максимально возможное место ЦСКА по итогам нынешнего сезона в РПЛ</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404214-bubnov-nazval-maksimalno-vozmozhnoe-mesto-cska-po-itogam-nyneshnego-sezona-v-rpl.html</guid>
     </item>
     <item>
-      <title>Игрок «Спартака» Умяров вспомнил, каким был дебютант Полех на первой тренировке</title>
-      <link>https://www.championat.com/football/news-6405364-igrok-spartaka-umyarov-vspomnil-kakim-byl-debyutant-poleh-na-pervoj-trenirovke.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405364-igrok-spartaka-umyarov-vspomnil-kakim-byl-debyutant-poleh-na-pervoj-trenirovke.html</guid>
-      <description>10:01 Игрок «Спартака» Умяров вспомнил, каким был дебютант Полех на первой тренировке</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>Луис Энрике рассказал, кто из игроков «ПСЖ» выбирает исполнителя пенальти во время матчей</title>
+      <link>https://www.championat.com/football/news-6404198-luis-enrike-rasskazal-kto-iz-igrokov-pszh-vybiraet-ispolnitelya-penalti-vo-vremya-matchej.html</link>
+      <description>12:22 Луис Энрике рассказал, кто из игроков «ПСЖ» выбирает исполнителя пенальти во время матчей</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404198-luis-enrike-rasskazal-kto-iz-igrokov-pszh-vybiraet-ispolnitelya-penalti-vo-vremya-matchej.html</guid>
     </item>
     <item>
-      <title>УЕФА отклонил просьбу АПЛ об увеличении заявки в ЛЧ до 28 игроков — The Guardian</title>
-      <link>https://www.championat.com/football/news-6405324-uefa-otklonil-prosbu-apl-ob-uvelichenii-zayavki-v-lch-do-28-igrokov-the-guardian.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405324-uefa-otklonil-prosbu-apl-ob-uvelichenii-zayavki-v-lch-do-28-igrokov-the-guardian.html</guid>
-      <description>09:39 УЕФА отклонил просьбу АПЛ об увеличении заявки в ЛЧ до 28 игроков — The Guardian</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>Бубнов объяснил ошибку Акинфеева в моменте с пропущенным голом в игре ЦСКА — «Динамо» Мх</title>
+      <link>https://www.championat.com/football/news-6404176-bubnov-obyasnil-oshibku-akinfeeva-v-momente-s-propuschennym-golom-v-igre-cska-dinamo-mh.html</link>
+      <description>11:55 Бубнов объяснил ошибку Акинфеева в моменте с пропущенным голом в игре ЦСКА — «Динамо» Мх</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404176-bubnov-obyasnil-oshibku-akinfeeva-v-momente-s-propuschennym-golom-v-igre-cska-dinamo-mh.html</guid>
     </item>
     <item>
-      <title>«Наконец-то Семак услышал критику». Орлов отметил изменения в игре «Зенита»</title>
-      <link>https://www.championat.com/football/news-6405330-nakonec-to-semak-uslyshal-kritiku-orlov-otmetil-izmeneniya-v-igre-zenita.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405330-nakonec-to-semak-uslyshal-kritiku-orlov-otmetil-izmeneniya-v-igre-zenita.html</guid>
-      <description>09:33 «Наконец-то Семак услышал критику». Орлов отметил изменения в игре «Зенита»</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>Сергей Кирьяков: «Локомотив» прорвало — настроились и снесли «Акрон»</title>
+      <link>https://www.championat.com/football/news-6404158-sergej-kiryakov-lokomotiv-prorvalo-nastroilis-i-snesli-akron.html</link>
+      <description>11:35 Сергей Кирьяков: «Локомотив» прорвало — настроились и снесли «Акрон»</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404158-sergej-kiryakov-lokomotiv-prorvalo-nastroilis-i-snesli-akron.html</guid>
     </item>
     <item>
-      <title>Игрок «Зенита» Дркушич: в таблице будет плотно до конца сезона</title>
-      <link>https://www.championat.com/football/news-6405316-igrok-zenita-drkushich-v-tablice-budet-plotno-do-konca-sezona.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405316-igrok-zenita-drkushich-v-tablice-budet-plotno-do-konca-sezona.html</guid>
-      <description>09:23 Игрок «Зенита» Дркушич: в таблице будет плотно до конца сезона</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>«Cнимаю шляпу перед всей организацией». Гвардиола — после победы в Кубке английской лиги</title>
+      <link>https://www.championat.com/football/news-6404146-cnimayu-shlyapu-pered-vsej-organizaciej-gvardiola-posle-pobedy-v-kubke-anglijskoj-ligi.html</link>
+      <description>11:19 «Cнимаю шляпу перед всей организацией». Гвардиола — после победы в Кубке английской лиги</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404146-cnimayu-shlyapu-pered-vsej-organizaciej-gvardiola-posle-pobedy-v-kubke-anglijskoj-ligi.html</guid>
     </item>
     <item>
-      <title>«Это стало нашим смертным приговором». Почеттино — о поражении «ПСЖ» от «Реала» в ЛЧ</title>
-      <link>https://www.championat.com/football/news-6405274-eto-stalo-nashim-smertnym-prigovorom-pochettino-o-porazhenii-pszh-ot-reala-v-lch.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405274-eto-stalo-nashim-smertnym-prigovorom-pochettino-o-porazhenii-pszh-ot-reala-v-lch.html</guid>
-      <description>09:05 «Это стало нашим смертным приговором». Почеттино — о поражении «ПСЖ» от «Реала» в ЛЧ</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>Сергей Кирьяков: «Динамо» провалило матч с «Зенитом»</title>
+      <link>https://www.championat.com/football/news-6404142-sergej-kiryakov-dinamo-provalilo-match-s-zenitom.html</link>
+      <description>11:16 Сергей Кирьяков: «Динамо» провалило матч с «Зенитом»</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404142-sergej-kiryakov-dinamo-provalilo-match-s-zenitom.html</guid>
     </item>
     <item>
-      <title>Андреева и Медведев проиграли в Майами, ЦСКА одолел СКА в Кубке Гагарина. Главное к утру</title>
-      <link>https://www.championat.com/tennis/news-6405244-24-marta-glavnye-novosti-sporta-futbolnye-transfery-hokkej-nhl-khl-kubok-gagarina-basketbol-nba-tennis.html</link>
-      <guid isPermaLink="false">https://www.championat.com/tennis/news-6405244-24-marta-glavnye-novosti-sporta-futbolnye-transfery-hokkej-nhl-khl-kubok-gagarina-basketbol-nba-tennis.html</guid>
-      <description>08:30 Андреева и Медведев проиграли в Майами, ЦСКА одолел СКА в Кубке Гагарина. Главное к утру</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>Экс-игрок «Спартака» Чернов высказался об игре команды при Карседо</title>
+      <link>https://www.championat.com/football/news-6404092-eks-igrok-spartaka-chernov-vyskazalsya-ob-igre-komandy-pri-karsedo.html</link>
+      <description>10:40 Экс-игрок «Спартака» Чернов высказался об игре команды при Карседо</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404092-eks-igrok-spartaka-chernov-vyskazalsya-ob-igre-komandy-pri-karsedo.html</guid>
     </item>
     <item>
-      <title>Андрей Аршавин назвал сильные стороны «Балтики»</title>
-      <link>https://www.championat.com/football/news-6405240-andrej-arshavin-nazval-silnye-storony-baltiki.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405240-andrej-arshavin-nazval-silnye-storony-baltiki.html</guid>
-      <description>08:00 Андрей Аршавин назвал сильные стороны «Балтики»</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>Бубнов: те, кто не смог посмотреть игру «Крыльев» с «Рубином», вообще ничего не потеряли</title>
+      <link>https://www.championat.com/football/news-6404102-bubnov-te-kto-ne-smog-posmotret-igru-krylev-s-rubinom-voobsche-nichego-ne-poteryali.html</link>
+      <description>10:37 Бубнов: те, кто не смог посмотреть игру «Крыльев» с «Рубином», вообще ничего не потеряли</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404102-bubnov-te-kto-ne-smog-posmotret-igru-krylev-s-rubinom-voobsche-nichego-ne-poteryali.html</guid>
     </item>
     <item>
-      <title>В «Черноморце» сообщили, почему расстались с Ярославом Ракицким, намекнув на дисциплину</title>
-      <link>https://www.championat.com/football/news-6405226-v-chernomorce-soobschili-pochemu-rasstalis-s-yaroslavom-rakickim-nameknuv-na-disciplinu.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405226-v-chernomorce-soobschili-pochemu-rasstalis-s-yaroslavom-rakickim-nameknuv-na-disciplinu.html</guid>
-      <description>07:30 В «Черноморце» сообщили, почему расстались с Ярославом Ракицким, намекнув на дисциплину</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>«Динамо» поздравило Овечкина с тысячной шайбой в НХЛ</title>
+      <link>https://www.championat.com/football/news-6404100-dinamo-pozdravilo-ovechkina-s-tysyachnoj-shajboj-v-nhl.html</link>
+      <description>10:36 «Динамо» поздравило Овечкина с тысячной шайбой в НХЛ</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404100-dinamo-pozdravilo-ovechkina-s-tysyachnoj-shajboj-v-nhl.html</guid>
     </item>
     <item>
-      <title>«МЮ» ведёт переговоры с «Ньюкаслом» по трансферу Гимарайнса за € 80 млн — источник</title>
-      <link>https://www.championat.com/football/news-6405222-myu-vedyot-peregovory-s-nyukaslom-po-transferu-gimarajnsa-za-eur-80-mln-istochnik.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405222-myu-vedyot-peregovory-s-nyukaslom-po-transferu-gimarajnsa-za-eur-80-mln-istochnik.html</guid>
-      <description>07:15 «МЮ» ведёт переговоры с «Ньюкаслом» по трансферу Гимарайнса за € 80 млн — источник</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>Игорь Дивеев: я хочу поиграть в хорошей команде в Европе, и не в 38 лет</title>
+      <link>https://www.championat.com/football/news-6404088-igor-diveev-ya-hochu-poigrat-v-horoshej-komande-v-evrope-i-ne-v-38-let.html</link>
+      <description>10:30 Игорь Дивеев: я хочу поиграть в хорошей команде в Европе, и не в 38 лет</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404088-igor-diveev-ya-hochu-poigrat-v-horoshej-komande-v-evrope-i-ne-v-38-let.html</guid>
     </item>
     <item>
-      <title>Гамид Агаларов: давно уже готов к сборной России, очень хотел бы сыграть</title>
-      <link>https://www.championat.com/football/news-6405216-gamid-agalarov-davno-uzhe-gotov-k-sbornoj-rossii-ochen-hotel-by-sygrat.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405216-gamid-agalarov-davno-uzhe-gotov-k-sbornoj-rossii-ochen-hotel-by-sygrat.html</guid>
-      <description>06:40 Гамид Агаларов: давно уже готов к сборной России, очень хотел бы сыграть</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>«Реал» обжалует удаление Вальверде в матче 29-го тура Ла Лиги с «Атлетико» — Marca</title>
+      <link>https://www.championat.com/football/news-6404072-real-obzhaluet-udalenie-valverde-v-matche-29-go-tura-la-ligi-s-atletiko-marca.html</link>
+      <description>10:08 «Реал» обжалует удаление Вальверде в матче 29-го тура Ла Лиги с «Атлетико» — Marca</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404072-real-obzhaluet-udalenie-valverde-v-matche-29-go-tura-la-ligi-s-atletiko-marca.html</guid>
     </item>
     <item>
-      <title>Звезда «Челси» Энцо Фернандес мечтает перейти в «Реал» — Джейкобс</title>
-      <link>https://www.championat.com/football/news-6405214-zvezda-chelsi-enco-fernandes-mechtaet-perejti-v-real-dzhejkobs.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405214-zvezda-chelsi-enco-fernandes-mechtaet-perejti-v-real-dzhejkobs.html</guid>
-      <description>06:29 Звезда «Челси» Энцо Фернандес мечтает перейти в «Реал» — Джейкобс</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>Красивый гол Литвинова — в видеообзоре матча «Оренбург» — «Спартак»</title>
+      <link>https://www.championat.com/football/news-6404066-krasivyj-gol-litvinova-v-videoobzore-matcha-orenburg-spartak.html</link>
+      <description>10:01 Красивый гол Литвинова — в видеообзоре матча «Оренбург» — «Спартак» Видео</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404066-krasivyj-gol-litvinova-v-videoobzore-matcha-orenburg-spartak.html</guid>
     </item>
     <item>
-      <title>The Guardian сообщил, вызван ли Сердар Азмун в сборную Ирана после скандального фото</title>
-      <link>https://www.championat.com/football/news-6405210-the-guardian-soobschil-vyzvan-li-serdar-azmun-v-sbornuyu-irana-posle-skandalnogo-foto.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405210-the-guardian-soobschil-vyzvan-li-serdar-azmun-v-sbornuyu-irana-posle-skandalnogo-foto.html</guid>
-      <description>06:00 The Guardian сообщил, вызван ли Сердар Азмун в сборную Ирана после скандального фото</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>Семак и Мантуан спорили с арбитром, Нгамалё тормозил над Адамовым. Фото победы «Зенита»</title>
+      <link>https://www.championat.com/football/news-6403742-semak-i-mantuan-sporili-s-arbitrom-ngamalyo-tormozil-nad-adamovym-foto-pobedy-zenita.html</link>
+      <description>09:45 Семак и Мантуан спорили с арбитром, Нгамалё тормозил над Адамовым. Фото победы «Зенита» Фото</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6403742-semak-i-mantuan-sporili-s-arbitrom-ngamalyo-tormozil-nad-adamovym-foto-pobedy-zenita.html</guid>
     </item>
     <item>
-      <title>Вратарь «Ман Сити» Траффорд установил рекорд XXI века в английском футболе</title>
-      <link>https://www.championat.com/football/news-6405208-vratar-man-siti-trafford-ustanovil-rekord-xxi-veka-v-anglijskom-futbole.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6405208-vratar-man-siti-trafford-ustanovil-rekord-xxi-veka-v-anglijskom-futbole.html</guid>
-      <description>05:57 Вратарь «Ман Сити» Траффорд установил рекорд XXI века в английском футболе</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <title>«Много говорить не буду». Акинфеев сделал новый пост после победы ЦСКА над «Динамо» Мх</title>
+      <link>https://www.championat.com/football/news-6404036-mnogo-govorit-ne-budu-akinfeev-sdelal-novyj-post-posle-pobedy-cska-nad-dinamo-mh.html</link>
+      <description>09:40 «Много говорить не буду». Акинфеев сделал новый пост после победы ЦСКА над «Динамо» Мх</description>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/football/news-6404036-mnogo-govorit-ne-budu-akinfeev-sdelal-novyj-post-posle-pobedy-cska-nad-dinamo-mh.html</guid>
     </item>
     <item>
       <title>Правовая информация</title>
       <link>https://www.championat.com/page/legal/</link>
-      <guid isPermaLink="false">https://www.championat.com/page/legal/</guid>
       <description>Правовая информация</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/page/legal/</guid>
     </item>
     <item>
       <title>Контакты</title>
       <link>https://www.championat.com/page/about/</link>
-      <guid isPermaLink="false">https://www.championat.com/page/about/</guid>
       <description>Контакты</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/page/about/</guid>
     </item>
     <item>
       <title>Реклама</title>
       <link>https://www.championat.com/page/collab/</link>
-      <guid isPermaLink="false">https://www.championat.com/page/collab/</guid>
       <description>Реклама</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/page/collab/</guid>
     </item>
     <item>
       <title>Политика конфиденциальности</title>
       <link>https://www.championat.com/page/privacy/</link>
-      <guid isPermaLink="false">https://www.championat.com/page/privacy/</guid>
       <description>Политика конфиденциальности</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/page/privacy/</guid>
     </item>
     <item>
       <title>Условия использования</title>
       <link>https://www.championat.com/page/terms/</link>
-      <guid isPermaLink="false">https://www.championat.com/page/terms/</guid>
       <description>Условия использования</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/page/terms/</guid>
     </item>
     <item>
       <title>Пресс-релизы</title>
       <link>https://www.championat.com/pressrelease/</link>
-      <guid isPermaLink="false">https://www.championat.com/pressrelease/</guid>
       <description>Пресс-релизы</description>
-      <pubDate>Tue, 24 Mar 2026 09:41:14 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 12:31:37 +0000</pubDate>
+      <guid>https://www.championat.com/pressrelease/</guid>
     </item>
   </channel>
 </rss>
